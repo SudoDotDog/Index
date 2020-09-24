@@ -2,6 +2,4 @@
 
 This site is a index of `sudoo` packages and documents. Visit Github page for more details.
 
-## Package Categories
-
--   [Calculation](./calculation)
+For package source code and documents see: [Table of Content](./table-of-content).
