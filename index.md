@@ -9,7 +9,7 @@ Sudoo packages are some `JavaScript NPM` (some for `Dart`) packages.
 ## Resource
 
 -   SudoDotDog Github Page > [SudoDotDog Github](//github.com/SudoDotDog)
--   Source code and documents > [Dictionary](./dictionary).
+-   Source code and documents > [Dictionary](./dictionary)
 
 ## Redirection
 
