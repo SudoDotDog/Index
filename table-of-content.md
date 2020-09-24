@@ -1,7 +1,7 @@
 # Table of Content
 
-Sudoo-Compare > [Github](https://github.com/SudoDotDog/Sudoo-Compare) / [Document](https://compare.sudo.dog) / [NPM](https://www.npmjs.com/package/@sudoo/compare)
-
-Sudoo-Password > [Github](https://github.com/SudoDotDog/Sudoo-Password) / [Document](https://password.sudo.dog) / [NPM](https://www.npmjs.com/package/@sudoo/password)
-
-Sudoo-Random > [Github](https://github.com/SudoDotDog/Sudoo-Random) / [Document](https://random.sudo.dog) / [NPM](https://www.npmjs.com/package/@sudoo/random)
+| Package        | Platform   | Links                                                                                                                               |
+| -------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Sudoo-Compare  | JavaScript | [Github](//github.com/SudoDotDog/Sudoo-Compare) / [Document](//compare.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/compare)    |
+| Sudoo-Password | NodeJS     | [Github](//github.com/SudoDotDog/Sudoo-Password) / [Document](//password.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/password) |
+| Sudoo-Random   | JavaScript | [Github](//github.com/SudoDotDog/Sudoo-Random) / [Document](//random.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/random)       |
