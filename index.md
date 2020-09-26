@@ -6,12 +6,12 @@ This site is a index of `sudoo` packages and documents. Visit Github page for mo
 
 Sudoo packages are some `JavaScript NPM` (some for `Dart`) packages.
 
-## Resource
+## Resources
 
 -   SudoDotDog Github Page > [SudoDotDog Github](//github.com/SudoDotDog)
 -   Source code and documents > [Dictionary](./dictionary)
 
-## Redirection
+## Links
 
 -   [Brontosaurus](//github.com/SudoDotDog/Brontosaurus) authorization platform Document and Information > [Brontosaurus Document](//brontosaurus.land)
 -   My personal blog > [WMXPY's Automated Bug Factory](//mengw.io)
