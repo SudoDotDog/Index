@@ -1,6 +1,6 @@
 # Sudoo Package Index
 
-This site is a index of `sudoo` packages and documents. Visit Github page for more details.
+This site is an index of `sudoo` packages and documents. Visit the Github page for more details.
 
 ## Overview
 
