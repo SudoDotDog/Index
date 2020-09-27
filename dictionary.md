@@ -1,6 +1,6 @@
 # Dictionary
 
-| Package                                                  | Environment  | Links                                                                            |
+| Package                                                  | Environment  | Link                                                                             |
 | -------------------------------------------------------- | ------------ | -------------------------------------------------------------------------------- |
 | [Sudoo-Compare](//github.com/SudoDotDog/Sudoo-Compare)   | ESM / NodeJS | [Document](//compare.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/compare)   |
 | [Sudoo-Dump](//github.com/SudoDotDog/Sudoo-Dump)         | ESM / NodeJS | [Document](//dump.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/dump)         |
