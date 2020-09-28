@@ -8,7 +8,8 @@ Sudoo packages are some `JavaScript NPM` (some for `Dart`) packages.
 
 ## Dictionary, Source and Document
 
--   Table Ordered > [Table Ordered Dictionary](./table-ordered)
+-   Table Ordered > [Table Ordered Dictionary](./table)
+-   Vocabulary Ordered > [Vocabulary Ordered Dictionary](./vocabulary)
 
 ## Links
 
