@@ -12,3 +12,4 @@
 | [Sudoo-Pattern](//github.com/SudoDotDog/Sudoo-Pattern)   | Web / Node  | [Document](//pattern.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/pattern)   |
 | [Sudoo-Random](//github.com/SudoDotDog/Sudoo-Random)     | Web / Node  | [Document](//random.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/random)     |
 | [Sudoo-Triforce](//github.com/SudoDotDog/Sudoo-Triforce) | Web / Node  | [Document](//triforce.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/triforce) |
+| [Sudoo-Version](//github.com/SudoDotDog/Sudoo-Version)   | Web / Node  | [Document](//version.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/version)   |
