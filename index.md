@@ -14,7 +14,7 @@ Sudoo packages are some `JavaScript NPM` (some for `Dart`) packages.
 ## Links
 
 -   SudoDotDog Github Page > [SudoDotDog Github](//github.com/SudoDotDog)
--   [Brontosaurus](//github.com/SudoDotDog/Brontosaurus) authorization platform Document and Information > [Brontosaurus Document](//brontosaurus.land)
+-   [Brontosaurus](//github.com/SudoDotDog/Brontosaurus) authorization solution > [Brontosaurus Land](//brontosaurus.land)
 -   My personal blog > [WMXPY's Automated Bug Factory](//mengw.io)
 
 > Built with Love by [WMXPY](//github.com/WMXPY) & [PCXPY](//github.com/PCXPY)
