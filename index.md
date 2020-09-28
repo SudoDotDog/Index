@@ -18,6 +18,6 @@ Sudoo packages are some `JavaScript NPM` (some for `Dart`) packages.
 
 ## Support
 
-For any kind of support, contact us at [hello@sudo.dog](mailto://hello@sudo.dog)
+To get help, contact us at [hello@sudo.dog](mailto://hello@sudo.dog)
 
 > Built with Love by [WMXPY](//github.com/WMXPY) & [PCXPY](//github.com/PCXPY)
