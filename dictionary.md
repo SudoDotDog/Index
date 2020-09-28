@@ -4,6 +4,7 @@
 | -------------------------------------------------------- | ----------- | -------------------------------------------------------------------------------- |
 | [Sudoo-Compare](//github.com/SudoDotDog/Sudoo-Compare)   | Web / Node  | [Document](//compare.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/compare)   |
 | [Sudoo-Dump](//github.com/SudoDotDog/Sudoo-Dump)         | Web / Node  | [Document](//dump.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/dump)         |
+| [Sudoo-Iterator](//github.com/SudoDotDog/Sudoo-Iterator) | Web / Node  | [Document](//iterator.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/iterator) |
 | [Sudoo-JSS](//github.com/SudoDotDog/Sudoo-JSS)           | Web         | [Document](//jss.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/jss)           |
 | [Sudoo-Magic](//github.com/SudoDotDog/Sudoo-Magic)       | Web / Node  | [Document](//magic.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/magic)       |
 | [Sudoo-Matrix](//github.com/SudoDotDog/Sudoo-Matrix)     | Web / Node  | [Document](//matrix.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/matrix)     |
