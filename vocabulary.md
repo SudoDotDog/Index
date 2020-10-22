@@ -70,6 +70,14 @@ Vocabulary Ordered
 -   [Document](//random.sudo.dog)
 -   [NPM](//www.npmjs.com/package/@sudoo/random)
 
+## S
+
+### [Sudoo-Search](//github.com/SudoDotDog/Sudoo-Search)
+
+-   Environment: Web / Node
+-   [Document](//search.sudo.dog)
+-   [NPM](//www.npmjs.com/package/@sudoo/search)
+
 ## T
 
 ### [Sudoo-Triforce](//github.com/SudoDotDog/Sudoo-Triforce)
