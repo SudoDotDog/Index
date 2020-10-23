@@ -26,6 +26,12 @@ Vocabulary Ordered
 -   [Document](//exif.sudo.dog)
 -   [NPM](//www.npmjs.com/package/@sudoo/exif)
 
+### [Sudoo-Exif-Node](//github.com/SudoDotDog/Sudoo-Exif-Node)
+
+-   Environment: Node
+-   [Document](//exif-node.sudo.dog)
+-   [NPM](//www.npmjs.com/package/@sudoo/exif-node)
+
 ## I
 
 ### [Sudoo-Iterator](//github.com/SudoDotDog/Sudoo-Iterator)
