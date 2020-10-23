@@ -2,6 +2,8 @@
 
 Vocabulary Ordered
 
+> For table ordered dictionary, see [Table Ordered Dictionary](./table).
+
 ## C
 
 ### [Sudoo-Compare](//github.com/SudoDotDog/Sudoo-Compare)

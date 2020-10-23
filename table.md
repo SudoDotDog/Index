@@ -2,6 +2,8 @@
 
 Table Ordered
 
+> For vocabulary ordered dictionary, see [Vocabulary Ordered Dictionary](./vocabulary).
+
 | Package                                                    | Environment | Link                                                                               |
 | ---------------------------------------------------------- | ----------- | ---------------------------------------------------------------------------------- |
 | [Sudoo-Compare](//github.com/SudoDotDog/Sudoo-Compare)     | Web / Node  | [Document](//compare.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/compare)     |
