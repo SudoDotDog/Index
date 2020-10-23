@@ -94,6 +94,12 @@ Vocabulary Ordered
 
 ## T
 
+### [Sudoo-Token](//github.com/SudoDotDog/Sudoo-Token)
+
+-   Environment: Node
+-   [Document](//token.sudo.dog)
+-   [NPM](//www.npmjs.com/package/@sudoo/token)
+
 ### [Sudoo-Triforce](//github.com/SudoDotDog/Sudoo-Triforce)
 
 -   Environment: Web / Node
