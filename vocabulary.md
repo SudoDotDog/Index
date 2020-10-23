@@ -18,6 +18,14 @@ Vocabulary Ordered
 -   [Document](//dump.sudo.dog)
 -   [NPM](//www.npmjs.com/package/@sudoo/dump)
 
+## E
+
+### [Sudoo-Exif](//github.com/SudoDotDog/Sudoo-Exif)
+
+-   Environment: Web / Node
+-   [Document](//exif.sudo.dog)
+-   [NPM](//www.npmjs.com/package/@sudoo/exif)
+
 ## I
 
 ### [Sudoo-Iterator](//github.com/SudoDotDog/Sudoo-Iterator)
