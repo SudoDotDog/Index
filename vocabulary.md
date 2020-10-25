@@ -96,6 +96,12 @@ Vocabulary Ordered
 
 ## T
 
+### [Sudoo-Title](//github.com/SudoDotDog/Sudoo-Title)
+
+-   Environment: Web
+-   [Document](//title.sudo.dog)
+-   [NPM](//www.npmjs.com/package/@sudoo/title)
+
 ### [Sudoo-Token](//github.com/SudoDotDog/Sudoo-Token)
 
 -   Environment: Node
