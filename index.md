@@ -6,6 +6,8 @@ This site is an index of `sudoo` packages and documents. Visit the Github page f
 
 Sudoo packages are some `JavaScript NPM` (some for `Dart`) packages.
 
+Note that, currently only 30% of package documents are indexed.
+
 ## Dictionary, Source and Document
 
 -   Table Ordered > [Table Ordered Dictionary](./table)
