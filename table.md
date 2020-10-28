@@ -13,6 +13,7 @@ Table Ordered
 | [Sudoo-Iterator](//github.com/SudoDotDog/Sudoo-Iterator)   | ✅   | ✅    | [Document](//iterator.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/iterator)   |
 | [Sudoo-JSS](//github.com/SudoDotDog/Sudoo-JSS)             | ✅   | ❌    | [Document](//jss.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/jss)             |
 | [Sudoo-JWT](//github.com/SudoDotDog/Sudoo-JWT)             | ❌   | ✅    | [Document](//jwt.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/jwt)             |
+| [Sudoo-Lambda](//github.com/SudoDotDog/Sudoo-Lambda)       | ✅   | ❌    | [Document](//lambda.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/lambda)       |
 | [Sudoo-Magic](//github.com/SudoDotDog/Sudoo-Magic)         | ✅   | ✅    | [Document](//magic.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/magic)         |
 | [Sudoo-Matrix](//github.com/SudoDotDog/Sudoo-Matrix)       | ✅   | ✅    | [Document](//matrix.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/matrix)       |
 | [Sudoo-Password](//github.com/SudoDotDog/Sudoo-Password)   | ❌   | ✅    | [Document](//password.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/password)   |

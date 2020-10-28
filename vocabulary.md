@@ -56,6 +56,14 @@ Vocabulary Ordered
 -   [Document](//jwt.sudo.dog)
 -   [NPM](//www.npmjs.com/package/@sudoo/jwt)
 
+## L
+
+### [Sudoo-Lambda](//github.com/SudoDotDog/Sudoo-Lambda)
+
+-   Environment: Node
+-   [Document](//lambda.sudo.dog)
+-   [NPM](//www.npmjs.com/package/@sudoo/lambda)
+
 ## M
 
 ### [Sudoo-Magic](//github.com/SudoDotDog/Sudoo-Magic)
