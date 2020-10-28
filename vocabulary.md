@@ -136,6 +136,12 @@ Vocabulary Ordered
 
 ## V
 
+### [Sudoo-Verify](//github.com/SudoDotDog/Sudoo-Verify)
+
+-   Environment: Web / Node
+-   [Document](//verify.sudo.dog)
+-   [NPM](//www.npmjs.com/package/@sudoo/verify)
+
 ### [Sudoo-Version](//github.com/SudoDotDog/Sudoo-Version)
 
 -   Environment: Web / Node
