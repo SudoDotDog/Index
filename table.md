@@ -8,6 +8,7 @@ Table Ordered
 | ------------------------------------------------------------------------ | --- | ---- | ------------------------------------------------------------------------------------------------ |
 | [Sudoo-Compare](//github.com/SudoDotDog/Sudoo-Compare)                   | ✅   | ✅    | [Document](//compare.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/compare)                   |
 | [Sudoo-Dump](//github.com/SudoDotDog/Sudoo-Dump)                         | ✅   | ✅    | [Document](//dump.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/dump)                         |
+| [Sudoo-Duplicate](//github.com/SudoDotDog/Sudoo-Duplicate)               | ✅   | ✅    | [Document](//duplicate.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/duplicate)               |
 | [Sudoo-Exif](//github.com/SudoDotDog/Sudoo-Exif)                         | ✅   | ✅    | [Document](//exif.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/exif)                         |
 | [Sudoo-Exif-Node](//github.com/SudoDotDog/Sudoo-Exif-Node)               | ❌   | ✅    | [Document](//exif-node.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/exif-node)               |
 | [Sudoo-Immutable](//github.com/SudoDotDog/Sudoo-Immutable)               | ✅   | ✅    | [Document](//immutable.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/immutable)               |

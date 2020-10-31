@@ -20,6 +20,12 @@ Vocabulary Ordered
 -   [Document](//dump.sudo.dog)
 -   [NPM](//www.npmjs.com/package/@sudoo/dump)
 
+### [Sudoo-Duplicate](//github.com/SudoDotDog/Sudoo-Duplicate)
+
+-   Environment: Web / Node
+-   [Document](//duplicate.sudo.dog)
+-   [NPM](//www.npmjs.com/package/@sudoo/duplicate)
+
 ## E
 
 ### [Sudoo-Exif](//github.com/SudoDotDog/Sudoo-Exif)
