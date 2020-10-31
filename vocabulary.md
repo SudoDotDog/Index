@@ -36,6 +36,12 @@ Vocabulary Ordered
 
 ## I
 
+### [Sudoo-Immutable](//github.com/SudoDotDog/Sudoo-Immutable)
+
+-   Environment: Web / Node
+-   [Document](//immutable.sudo.dog)
+-   [NPM](//www.npmjs.com/package/@sudoo/immutable)
+
 ### [Sudoo-Iterator](//github.com/SudoDotDog/Sudoo-Iterator)
 
 -   Environment: Web / Node
