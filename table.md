@@ -29,5 +29,6 @@ Table Ordered
 | [Sudoo-Title](//github.com/SudoDotDog/Sudoo-Title)                       | ✅   | ❌    | [Document](//title.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/title)                       |
 | [Sudoo-Token](//github.com/SudoDotDog/Sudoo-Token)                       | ❌   | ✅    | [Document](//token.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/token)                       |
 | [Sudoo-Triforce](//github.com/SudoDotDog/Sudoo-Triforce)                 | ✅   | ✅    | [Document](//triforce.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/triforce)                 |
+| [Sudoo-URL](//github.com/SudoDotDog/Sudoo-URL)                           | ✅   | ✅    | [Document](//url.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/url)                           |
 | [Sudoo-Verify](//github.com/SudoDotDog/Sudoo-Verify)                     | ✅   | ✅    | [Document](//verify.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/verify)                     |
 | [Sudoo-Version](//github.com/SudoDotDog/Sudoo-Version)                   | ✅   | ✅    | [Document](//version.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/version)                   |

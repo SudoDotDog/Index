@@ -166,6 +166,14 @@ Vocabulary Ordered
 -   [Document](//triforce.sudo.dog)
 -   [NPM](//www.npmjs.com/package/@sudoo/triforce)
 
+## U
+
+### [Sudoo-URL](//github.com/SudoDotDog/Sudoo-URL)
+
+-   Environment: Web / Node
+-   [Document](//url.sudo.dog)
+-   [NPM](//www.npmjs.com/package/@sudoo/url)
+
 ## V
 
 ### [Sudoo-Verify](//github.com/SudoDotDog/Sudoo-Verify)
