@@ -21,6 +21,7 @@ Table Ordered
 | [Sudoo-Password](//github.com/SudoDotDog/Sudoo-Password)                 | ❌   | ✅    | [Document](//password.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/password)                 |
 | [Sudoo-Pattern](//github.com/SudoDotDog/Sudoo-Pattern)                   | ✅   | ✅    | [Document](//pattern.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/pattern)                   |
 | [Sudoo-Pattern-Geometry](//github.com/SudoDotDog/Sudoo-Pattern-Geometry) | ✅   | ✅    | [Document](//pattern-geometry.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/pattern-geometry) |
+| [Sudoo-Processor](//github.com/SudoDotDog/Sudoo-Processor)               | ✅   | ✅    | [Document](//processor.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/processor)               |
 | [Sudoo-Random](//github.com/SudoDotDog/Sudoo-Random)                     | ✅   | ✅    | [Document](//random.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/random)                     |
 | [Sudoo-Search](//github.com/SudoDotDog/Sudoo-Search)                     | ✅   | ✅    | [Document](//search.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/search)                     |
 | [Sudoo-Title](//github.com/SudoDotDog/Sudoo-Title)                       | ✅   | ❌    | [Document](//title.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/title)                       |

@@ -112,6 +112,12 @@ Vocabulary Ordered
 -   [Document](//pattern-geometry.sudo.dog)
 -   [NPM](//www.npmjs.com/package/@sudoo/pattern-geometry)
 
+### [Sudoo-Processor](//github.com/SudoDotDog/Sudoo-Processor)
+
+-   Environment: Web / Node
+-   [Document](//processor.sudo.dog)
+-   [NPM](//www.npmjs.com/package/@sudoo/processor)
+
 ## R
 
 ### [Sudoo-Random](//github.com/SudoDotDog/Sudoo-Random)
