@@ -17,6 +17,7 @@ Table Ordered
 | [Sudoo-Lambda-Verify](//github.com/SudoDotDog/Sudoo-Lambda-Verify)       | ✅   | ❌    | [Document](//lambda-verify.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/lambda-verify)       |
 | [Sudoo-Magic](//github.com/SudoDotDog/Sudoo-Magic)                       | ✅   | ✅    | [Document](//magic.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/magic)                       |
 | [Sudoo-Matrix](//github.com/SudoDotDog/Sudoo-Matrix)                     | ✅   | ✅    | [Document](//matrix.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/matrix)                     |
+| [Sudoo-Optimization](//github.com/SudoDotDog/Sudoo-Optimization)         | ✅   | ✅    | [Document](//optimization.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/optimization)         |
 | [Sudoo-Password](//github.com/SudoDotDog/Sudoo-Password)                 | ❌   | ✅    | [Document](//password.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/password)                 |
 | [Sudoo-Pattern](//github.com/SudoDotDog/Sudoo-Pattern)                   | ✅   | ✅    | [Document](//pattern.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/pattern)                   |
 | [Sudoo-Pattern-Geometry](//github.com/SudoDotDog/Sudoo-Pattern-Geometry) | ✅   | ✅    | [Document](//pattern-geometry.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/pattern-geometry) |

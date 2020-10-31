@@ -84,6 +84,14 @@ Vocabulary Ordered
 -   [Document](//matrix.sudo.dog)
 -   [NPM](//www.npmjs.com/package/@sudoo/matrix)
 
+## O
+
+### [Sudoo-Optimization](//github.com/SudoDotDog/Sudoo-Optimization)
+
+-   Environment: Web / Node
+-   [Document](//optimization.sudo.dog)
+-   [NPM](//www.npmjs.com/package/@sudoo/optimization)
+
 ## P
 
 ### [Sudoo-Password](//github.com/SudoDotDog/Sudoo-Password)
