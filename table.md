@@ -19,6 +19,7 @@ Table Ordered
 | [Sudoo-Lambda](//github.com/SudoDotDog/Sudoo-Lambda)                     | ✅   | ❌    | [Document](//lambda.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/lambda)                     |
 | [Sudoo-Lambda-Verify](//github.com/SudoDotDog/Sudoo-Lambda-Verify)       | ✅   | ❌    | [Document](//lambda-verify.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/lambda-verify)       |
 | [Sudoo-Magic](//github.com/SudoDotDog/Sudoo-Magic)                       | ✅   | ✅    | [Document](//magic.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/magic)                       |
+| [Marked](//github.com/SudoDotDog/Marked)                                 | ✅   | ✅    | [Document](//marked.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/marked)                     |
 | [Sudoo-Matrix](//github.com/SudoDotDog/Sudoo-Matrix)                     | ✅   | ✅    | [Document](//matrix.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/matrix)                     |
 | [Sudoo-Optimization](//github.com/SudoDotDog/Sudoo-Optimization)         | ✅   | ✅    | [Document](//optimization.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/optimization)         |
 | [Sudoo-Password](//github.com/SudoDotDog/Sudoo-Password)                 | ❌   | ✅    | [Document](//password.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/password)                 |

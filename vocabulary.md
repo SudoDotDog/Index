@@ -96,6 +96,12 @@ Vocabulary Ordered
 -   [Document](//magic.sudo.dog)
 -   [NPM](//www.npmjs.com/package/@sudoo/magic)
 
+### [Marked](//github.com/SudoDotDog/Marked)
+
+-   Environment: Web / Node
+-   [Document](//marked.sudo.dog)
+-   [NPM](//www.npmjs.com/package/@sudoo/marked)
+
 ### [Sudoo-Matrix](//github.com/SudoDotDog/Sudoo-Matrix)
 
 -   Environment: Web / Node
