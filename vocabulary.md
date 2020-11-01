@@ -6,6 +6,12 @@ Vocabulary Ordered
 
 ## C
 
+### [Sudoo-Color](//github.com/SudoDotDog/Sudoo-Color)
+
+-   Environment: Web / Node
+-   [Document](//color.sudo.dog)
+-   [NPM](//www.npmjs.com/package/@sudoo/color)
+
 ### [Sudoo-Compare](//github.com/SudoDotDog/Sudoo-Compare)
 
 -   Environment: Web / Node

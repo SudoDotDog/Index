@@ -6,6 +6,7 @@ Table Ordered
 
 | Package                                                                  | Web | Node | Link                                                                                             |
 | ------------------------------------------------------------------------ | --- | ---- | ------------------------------------------------------------------------------------------------ |
+| [Sudoo-Color](//github.com/SudoDotDog/Sudoo-Color)                       | ✅   | ✅    | [Document](//color.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/color)                       |
 | [Sudoo-Compare](//github.com/SudoDotDog/Sudoo-Compare)                   | ✅   | ✅    | [Document](//compare.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/compare)                   |
 | [Sudoo-Dump](//github.com/SudoDotDog/Sudoo-Dump)                         | ✅   | ✅    | [Document](//dump.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/dump)                         |
 | [Sudoo-Duplicate](//github.com/SudoDotDog/Sudoo-Duplicate)               | ✅   | ✅    | [Document](//duplicate.sudo.dog) / [NPM](//www.npmjs.com/package/@sudoo/duplicate)               |
