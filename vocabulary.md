@@ -10,13 +10,13 @@ Vocabulary Ordered
 
 -   Environment: Web / Node
 -   [Document](//color.sudo.dog)
--   [NPM](//www.npmjs.com/package/@sudoo/color)
+-   [NPM](//npmjs.com/package/@sudoo/color)
 
 ### [Sudoo-Compare](//github.com/SudoDotDog/Sudoo-Compare)
 
 -   Environment: Web / Node
 -   [Document](//compare.sudo.dog)
--   [NPM](//www.npmjs.com/package/@sudoo/compare)
+-   [NPM](//npmjs.com/package/@sudoo/compare)
 
 ## D
 
@@ -24,13 +24,13 @@ Vocabulary Ordered
 
 -   Environment: Web / Node
 -   [Document](//dump.sudo.dog)
--   [NPM](//www.npmjs.com/package/@sudoo/dump)
+-   [NPM](//npmjs.com/package/@sudoo/dump)
 
 ### [Sudoo-Duplicate](//github.com/SudoDotDog/Sudoo-Duplicate)
 
 -   Environment: Web / Node
 -   [Document](//duplicate.sudo.dog)
--   [NPM](//www.npmjs.com/package/@sudoo/duplicate)
+-   [NPM](//npmjs.com/package/@sudoo/duplicate)
 
 ## E
 
@@ -38,13 +38,13 @@ Vocabulary Ordered
 
 -   Environment: Web / Node
 -   [Document](//exif.sudo.dog)
--   [NPM](//www.npmjs.com/package/@sudoo/exif)
+-   [NPM](//npmjs.com/package/@sudoo/exif)
 
 ### [Sudoo-Exif-Node](//github.com/SudoDotDog/Sudoo-Exif-Node)
 
 -   Environment: Node
 -   [Document](//exif-node.sudo.dog)
--   [NPM](//www.npmjs.com/package/@sudoo/exif-node)
+-   [NPM](//npmjs.com/package/@sudoo/exif-node)
 
 ## I
 
@@ -52,13 +52,13 @@ Vocabulary Ordered
 
 -   Environment: Web / Node
 -   [Document](//immutable.sudo.dog)
--   [NPM](//www.npmjs.com/package/@sudoo/immutable)
+-   [NPM](//npmjs.com/package/@sudoo/immutable)
 
 ### [Sudoo-Iterator](//github.com/SudoDotDog/Sudoo-Iterator)
 
 -   Environment: Web / Node
 -   [Document](//iterator.sudo.dog)
--   [NPM](//www.npmjs.com/package/@sudoo/iterator)
+-   [NPM](//npmjs.com/package/@sudoo/iterator)
 
 ## J
 
@@ -66,13 +66,13 @@ Vocabulary Ordered
 
 -   Environment: Web
 -   [Document](//jss.sudo.dog)
--   [NPM](//www.npmjs.com/package/@sudoo/jss)
+-   [NPM](//npmjs.com/package/@sudoo/jss)
 
 ### [Sudoo-JWT](//github.com/SudoDotDog/Sudoo-JWT)
 
 -   Environment: Node
 -   [Document](//jwt.sudo.dog)
--   [NPM](//www.npmjs.com/package/@sudoo/jwt)
+-   [NPM](//npmjs.com/package/@sudoo/jwt)
 
 ## L
 
@@ -80,13 +80,13 @@ Vocabulary Ordered
 
 -   Environment: Node
 -   [Document](//lambda.sudo.dog)
--   [NPM](//www.npmjs.com/package/@sudoo/lambda)
+-   [NPM](//npmjs.com/package/@sudoo/lambda)
 
 ### [Sudoo-Lambda-Verify](//github.com/SudoDotDog/Sudoo-Lambda-Verify)
 
 -   Environment: Node
 -   [Document](//lambda-verify.sudo.dog)
--   [NPM](//www.npmjs.com/package/@sudoo/lambda-verify)
+-   [NPM](//npmjs.com/package/@sudoo/lambda-verify)
 
 ## M
 
@@ -94,19 +94,19 @@ Vocabulary Ordered
 
 -   Environment: Web / Node
 -   [Document](//magic.sudo.dog)
--   [NPM](//www.npmjs.com/package/@sudoo/magic)
+-   [NPM](//npmjs.com/package/@sudoo/magic)
 
 ### [Marked](//github.com/SudoDotDog/Marked)
 
 -   Environment: Web / Node
 -   [Document](//marked.sudo.dog)
--   [NPM](//www.npmjs.com/package/@sudoo/marked)
+-   [NPM](//npmjs.com/package/@sudoo/marked)
 
 ### [Sudoo-Matrix](//github.com/SudoDotDog/Sudoo-Matrix)
 
 -   Environment: Web / Node
 -   [Document](//matrix.sudo.dog)
--   [NPM](//www.npmjs.com/package/@sudoo/matrix)
+-   [NPM](//npmjs.com/package/@sudoo/matrix)
 
 ## O
 
@@ -114,7 +114,7 @@ Vocabulary Ordered
 
 -   Environment: Web / Node
 -   [Document](//optimization.sudo.dog)
--   [NPM](//www.npmjs.com/package/@sudoo/optimization)
+-   [NPM](//npmjs.com/package/@sudoo/optimization)
 
 ## P
 
@@ -122,25 +122,25 @@ Vocabulary Ordered
 
 -   Environment: Node
 -   [Document](//password.sudo.dog)
--   [NPM](//www.npmjs.com/package/@sudoo/password)
+-   [NPM](//npmjs.com/package/@sudoo/password)
 
 ### [Sudoo-Pattern](//github.com/SudoDotDog/Sudoo-Pattern)
 
 -   Environment: Web / Node
 -   [Document](//pattern.sudo.dog)
--   [NPM](//www.npmjs.com/package/@sudoo/pattern)
+-   [NPM](//npmjs.com/package/@sudoo/pattern)
 
 ### [Sudoo-Pattern-Geometry](//github.com/SudoDotDog/Sudoo-Pattern-Geometry)
 
 -   Environment: Web / Node
 -   [Document](//pattern-geometry.sudo.dog)
--   [NPM](//www.npmjs.com/package/@sudoo/pattern-geometry)
+-   [NPM](//npmjs.com/package/@sudoo/pattern-geometry)
 
 ### [Sudoo-Processor](//github.com/SudoDotDog/Sudoo-Processor)
 
 -   Environment: Web / Node
 -   [Document](//processor.sudo.dog)
--   [NPM](//www.npmjs.com/package/@sudoo/processor)
+-   [NPM](//npmjs.com/package/@sudoo/processor)
 
 ## R
 
@@ -148,13 +148,13 @@ Vocabulary Ordered
 
 -   Environment: Web / Node
 -   [Document](//random.sudo.dog)
--   [NPM](//www.npmjs.com/package/@sudoo/random)
+-   [NPM](//npmjs.com/package/@sudoo/random)
 
 ### [Sudoo-React-Webpack](//github.com/SudoDotDog/Sudoo-React-Webpack)
 
 -   Environment: Web / Node
 -   [Document](//react-webpack.sudo.dog)
--   [NPM](//www.npmjs.com/package/@sudoo/webpack-react)
+-   [NPM](//npmjs.com/package/@sudoo/webpack-react)
 
 ## S
 
@@ -162,7 +162,7 @@ Vocabulary Ordered
 
 -   Environment: Web / Node
 -   [Document](//search.sudo.dog)
--   [NPM](//www.npmjs.com/package/@sudoo/search)
+-   [NPM](//npmjs.com/package/@sudoo/search)
 
 ## T
 
@@ -170,19 +170,19 @@ Vocabulary Ordered
 
 -   Environment: Web
 -   [Document](//title.sudo.dog)
--   [NPM](//www.npmjs.com/package/@sudoo/title)
+-   [NPM](//npmjs.com/package/@sudoo/title)
 
 ### [Sudoo-Token](//github.com/SudoDotDog/Sudoo-Token)
 
 -   Environment: Node
 -   [Document](//token.sudo.dog)
--   [NPM](//www.npmjs.com/package/@sudoo/token)
+-   [NPM](//npmjs.com/package/@sudoo/token)
 
 ### [Sudoo-Triforce](//github.com/SudoDotDog/Sudoo-Triforce)
 
 -   Environment: Web / Node
 -   [Document](//triforce.sudo.dog)
--   [NPM](//www.npmjs.com/package/@sudoo/triforce)
+-   [NPM](//npmjs.com/package/@sudoo/triforce)
 
 ## U
 
@@ -190,7 +190,7 @@ Vocabulary Ordered
 
 -   Environment: Web / Node
 -   [Document](//url.sudo.dog)
--   [NPM](//www.npmjs.com/package/@sudoo/url)
+-   [NPM](//npmjs.com/package/@sudoo/url)
 
 ## V
 
@@ -198,10 +198,10 @@ Vocabulary Ordered
 
 -   Environment: Web / Node
 -   [Document](//verify.sudo.dog)
--   [NPM](//www.npmjs.com/package/@sudoo/verify)
+-   [NPM](//npmjs.com/package/@sudoo/verify)
 
 ### [Sudoo-Version](//github.com/SudoDotDog/Sudoo-Version)
 
 -   Environment: Web / Node
 -   [Document](//version.sudo.dog)
--   [NPM](//www.npmjs.com/package/@sudoo/version)
+-   [NPM](//npmjs.com/package/@sudoo/version)
