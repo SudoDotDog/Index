@@ -8,7 +8,7 @@ Sudoo packages are some `JavaScript NPM` (some for `Dart`) packages.
 
 ## Progress
 
-Currently only **55%** of package documents are indexed.  
+Currently only **60%** of package documents are indexed.  
 Other package indexing and documenting are work in progress.
 
 ## Dictionary, Source and Document
