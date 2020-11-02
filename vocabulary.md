@@ -12,6 +12,14 @@ Vocabulary Ordered
 -   [Document](//abacus.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/abacus)
 
+## B
+
+### [Sudoo-Buffer](//github.com/SudoDotDog/Sudoo-Buffer)
+
+-   Environment: Web / Node
+-   [Document](//buffer.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/buffer)
+
 ## C
 
 ### [Sudoo-Color](//github.com/SudoDotDog/Sudoo-Color)
