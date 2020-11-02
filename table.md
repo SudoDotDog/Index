@@ -30,6 +30,7 @@ Table Ordered
 | [Sudoo-Random](//github.com/SudoDotDog/Sudoo-Random)                     | ✅   | ✅    | [Document](//random.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/random)                     |
 | [Sudoo-React-Webpack](//github.com/SudoDotDog/Sudoo-React-Webpack)       | ✅   | ✅    | [Document](//react-webpack.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/webpack-react)       |
 | [Sudoo-Search](//github.com/SudoDotDog/Sudoo-Search)                     | ✅   | ✅    | [Document](//search.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/search)                     |
+| [Sudoo-SSR](//github.com/SudoDotDog/Sudoo-SSR)                           | ❌   | ✅    | [Document](//ssr.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/ssr)                           |
 | [Sudoo-Title](//github.com/SudoDotDog/Sudoo-Title)                       | ✅   | ❌    | [Document](//title.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/title)                       |
 | [Sudoo-Token](//github.com/SudoDotDog/Sudoo-Token)                       | ❌   | ✅    | [Document](//token.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/token)                       |
 | [Sudoo-Triforce](//github.com/SudoDotDog/Sudoo-Triforce)                 | ✅   | ✅    | [Document](//triforce.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/triforce)                 |

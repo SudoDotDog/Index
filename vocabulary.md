@@ -172,6 +172,12 @@ Vocabulary Ordered
 -   [Document](//search.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/search)
 
+### [Sudoo-SSR](//github.com/SudoDotDog/Sudoo-SSR)
+
+-   Environment: Node
+-   [Document](//ssr.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/ssr)
+
 ## T
 
 ### [Sudoo-Title](//github.com/SudoDotDog/Sudoo-Title)
