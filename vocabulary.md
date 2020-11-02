@@ -150,6 +150,12 @@ Vocabulary Ordered
 -   [Document](//random.sudo.dog)
 -   [NPM](//www.npmjs.com/package/@sudoo/random)
 
+### [Sudoo-React-Webpack](//github.com/SudoDotDog/Sudoo-React-Webpack)
+
+-   Environment: Web / Node
+-   [Document](//react-webpack.sudo.dog)
+-   [NPM](//www.npmjs.com/package/@sudoo/webpack-react)
+
 ## S
 
 ### [Sudoo-Search](//github.com/SudoDotDog/Sudoo-Search)
