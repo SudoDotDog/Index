@@ -116,6 +116,12 @@ Vocabulary Ordered
 -   [Document](//matrix.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/matrix)
 
+### [Sudoo-Mimetype](//github.com/SudoDotDog/Sudoo-Mimetype)
+
+-   Environment: Web / Node
+-   [Document](//mimetype.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/mimetype)
+
 ## N
 
 ### [Sudoo-Node-Webpack](//github.com/SudoDotDog/Sudoo-Node-Webpack)
