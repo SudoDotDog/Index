@@ -4,6 +4,14 @@ Vocabulary Ordered
 
 > For table ordered dictionary, see [Table Ordered Dictionary](./table).
 
+## A
+
+### [Sudoo-Abacus](//github.com/SudoDotDog/Sudoo-Abacus)
+
+-   Environment: Web / Node
+-   [Document](//abacus.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/abacus)
+
 ## C
 
 ### [Sudoo-Color](//github.com/SudoDotDog/Sudoo-Color)
