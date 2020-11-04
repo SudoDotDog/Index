@@ -20,6 +20,12 @@ Vocabulary Ordered
 
 ## B
 
+### [Sudoo-Bark](//github.com/SudoDotDog/Sudoo-Bark)
+
+-   Environment: Web / Node
+-   [Document](//bark.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/bark)
+
 ### [Sudoo-Buffer](//github.com/SudoDotDog/Sudoo-Buffer)
 
 -   Environment: Web / Node
