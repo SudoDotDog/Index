@@ -220,6 +220,12 @@ Vocabulary Ordered
 -   [Document](//search.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/search)
 
+### [Sudoo-Socket](//github.com/SudoDotDog/Sudoo-Socket)
+
+-   Environment: Node
+-   [Document](//socket.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/socket)
+
 ### [Sudoo-SSR](//github.com/SudoDotDog/Sudoo-SSR)
 
 -   Environment: Node
