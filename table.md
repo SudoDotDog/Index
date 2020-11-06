@@ -14,6 +14,7 @@ Table Ordered
 | [Sudoo-Compare](//github.com/SudoDotDog/Sudoo-Compare)                   | ✅   | ✅    | [Document](//compare.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/compare)                   |
 | [Sudoo-Dump](//github.com/SudoDotDog/Sudoo-Dump)                         | ✅   | ✅    | [Document](//dump.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/dump)                         |
 | [Sudoo-Duplicate](//github.com/SudoDotDog/Sudoo-Duplicate)               | ✅   | ✅    | [Document](//duplicate.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/duplicate)               |
+| [Sudoo-Environment](//github.com/SudoDotDog/Sudoo-Environment)           | ❌   | ✅    | [Document](//environment.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/environment)           |
 | [Sudoo-Exif](//github.com/SudoDotDog/Sudoo-Exif)                         | ✅   | ✅    | [Document](//exif.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/exif)                         |
 | [Sudoo-Exif-Node](//github.com/SudoDotDog/Sudoo-Exif-Node)               | ❌   | ✅    | [Document](//exif-node.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/exif-node)               |
 | [Sudoo-Fetch](//github.com/SudoDotDog/Sudoo-Fetch)                       | ✅   | ❌    | [Document](//fetch.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/fetch)                       |

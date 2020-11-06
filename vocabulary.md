@@ -62,6 +62,12 @@ Vocabulary Ordered
 
 ## E
 
+### [Sudoo-Environment](//github.com/SudoDotDog/Sudoo-Environment)
+
+-   Environment: Node
+-   [Document](//environment.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/environment)
+
 ### [Sudoo-Exif](//github.com/SudoDotDog/Sudoo-Exif)
 
 -   Environment: Web / Node
