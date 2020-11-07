@@ -18,6 +18,7 @@ Table Ordered
 | [Sudoo-Exif](//github.com/SudoDotDog/Sudoo-Exif)                         | ✅   | ✅    | [Document](//exif.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/exif)                         |
 | [Sudoo-Exif-Node](//github.com/SudoDotDog/Sudoo-Exif-Node)               | ❌   | ✅    | [Document](//exif-node.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/exif-node)               |
 | [Sudoo-Fetch](//github.com/SudoDotDog/Sudoo-Fetch)                       | ✅   | ❌    | [Document](//fetch.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/fetch)                       |
+| [Sudoo-Geometry](//github.com/SudoDotDog/Sudoo-Geometry)                 | ✅   | ✅    | [Document](//geometry.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/geometry)                 |
 | [Sudoo-Immutable](//github.com/SudoDotDog/Sudoo-Immutable)               | ✅   | ✅    | [Document](//immutable.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/immutable)               |
 | [Sudoo-Iterator](//github.com/SudoDotDog/Sudoo-Iterator)                 | ✅   | ✅    | [Document](//iterator.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/iterator)                 |
 | [Sudoo-JSS](//github.com/SudoDotDog/Sudoo-JSS)                           | ✅   | ❌    | [Document](//jss.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/jss)                           |

@@ -88,6 +88,14 @@ Vocabulary Ordered
 -   [Document](//fetch.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/fetch)
 
+## G
+
+### [Sudoo-Geometry](//github.com/SudoDotDog/Sudoo-Geometry)
+
+-   Environment: Web / Node
+-   [Document](//geometry.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/geometry)
+
 ## I
 
 ### [Sudoo-Immutable](//github.com/SudoDotDog/Sudoo-Immutable)
