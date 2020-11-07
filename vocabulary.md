@@ -104,6 +104,12 @@ Vocabulary Ordered
 -   [Document](//immutable.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/immutable)
 
+### [Sudoo-Internationalization](//github.com/SudoDotDog/Sudoo-Internationalization)
+
+-   Environment: Web / Node
+-   [Document](//internationalization.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/internationalization)
+
 ### [Sudoo-Iterator](//github.com/SudoDotDog/Sudoo-Iterator)
 
 -   Environment: Web / Node
