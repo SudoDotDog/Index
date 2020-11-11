@@ -178,6 +178,12 @@ Vocabulary Ordered
 -   [Document](//node-webpack.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/webpack-node)
 
+### [Sudoo-Numeric](//github.com/SudoDotDog/Sudoo-Numeric)
+
+-   Environment: Web / Node
+-   [Document](//numeric.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/numeric)
+
 ## O
 
 ### [Sudoo-Optimization](//github.com/SudoDotDog/Sudoo-Optimization)

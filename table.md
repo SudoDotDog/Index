@@ -31,6 +31,7 @@ Table Ordered
 | [Sudoo-Matrix](//github.com/SudoDotDog/Sudoo-Matrix)                             | ✅   | ✅    | [Document](//matrix.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/matrix)                             |
 | [Sudoo-Mimetype](//github.com/SudoDotDog/Sudoo-Mimetype)                         | ✅   | ✅    | [Document](//mimetype.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/mimetype)                         |
 | [Sudoo-Node-Webpack](//github.com/SudoDotDog/Sudoo-Node-Webpack)                 | ❌   | ✅    | [Document](//node-webpack.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/webpack-node)                 |
+| [Sudoo-Numeric](//github.com/SudoDotDog/Sudoo-Numeric)                           | ✅   | ✅    | [Document](//numeric.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/numeric)                           |
 | [Sudoo-Optimization](//github.com/SudoDotDog/Sudoo-Optimization)                 | ✅   | ✅    | [Document](//optimization.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/optimization)                 |
 | [Sudoo-Password](//github.com/SudoDotDog/Sudoo-Password)                         | ❌   | ✅    | [Document](//password.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/password)                         |
 | [Sudoo-Pattern](//github.com/SudoDotDog/Sudoo-Pattern)                           | ✅   | ✅    | [Document](//pattern.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/pattern)                           |
