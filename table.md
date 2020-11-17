@@ -34,6 +34,7 @@ Table Ordered
 | [Marked](//github.com/SudoDotDog/Marked)                                         | ✅   | ✅    | [Document](//marked.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/marked)                             |
 | [Sudoo-Matrix](//github.com/SudoDotDog/Sudoo-Matrix)                             | ✅   | ✅    | [Document](//matrix.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/matrix)                             |
 | [Sudoo-Mimetype](//github.com/SudoDotDog/Sudoo-Mimetype)                         | ✅   | ✅    | [Document](//mimetype.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/mimetype)                         |
+| [Sudoo-Mock](//github.com/SudoDotDog/Sudoo-Mock)                                 | ✅   | ✅    | [Document](//mock.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/mock)                                 |
 | [Sudoo-Node-Webpack](//github.com/SudoDotDog/Sudoo-Node-Webpack)                 | ❌   | ✅    | [Document](//node-webpack.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/webpack-node)                 |
 | [Sudoo-Numeric](//github.com/SudoDotDog/Sudoo-Numeric)                           | ✅   | ✅    | [Document](//numeric.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/numeric)                           |
 | [Sudoo-Optimization](//github.com/SudoDotDog/Sudoo-Optimization)                 | ✅   | ✅    | [Document](//optimization.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/optimization)                 |
