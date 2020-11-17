@@ -29,6 +29,7 @@ Table Ordered
 | [Sudoo-JWT](//github.com/SudoDotDog/Sudoo-JWT)                                   | ❌   | ✅    | [Document](//jwt.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/jwt)                                   |
 | [Sudoo-Lambda](//github.com/SudoDotDog/Sudoo-Lambda)                             | ✅   | ❌    | [Document](//lambda.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/lambda)                             |
 | [Sudoo-Lambda-Verify](//github.com/SudoDotDog/Sudoo-Lambda-Verify)               | ✅   | ❌    | [Document](//lambda-verify.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/lambda-verify)               |
+| [Sudoo-Log](//github.com/SudoDotDog/Sudoo-Log)                                   | ✅   | ✅    | [Document](//log.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/log)                                   |
 | [Sudoo-Magic](//github.com/SudoDotDog/Sudoo-Magic)                               | ✅   | ✅    | [Document](//magic.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/magic)                               |
 | [Marked](//github.com/SudoDotDog/Marked)                                         | ✅   | ✅    | [Document](//marked.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/marked)                             |
 | [Sudoo-Matrix](//github.com/SudoDotDog/Sudoo-Matrix)                             | ✅   | ✅    | [Document](//matrix.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/matrix)                             |

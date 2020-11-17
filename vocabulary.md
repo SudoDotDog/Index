@@ -162,6 +162,12 @@ Vocabulary Ordered
 -   [Document](//lambda-verify.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/lambda-verify)
 
+### [Sudoo-Log](//github.com/SudoDotDog/Sudoo-Log)
+
+-   Environment: Web / Node
+-   [Document](//log.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/log)
+
 ## M
 
 ### [Sudoo-Magic](//github.com/SudoDotDog/Sudoo-Magic)
