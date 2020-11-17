@@ -18,6 +18,7 @@ Table Ordered
 | [Sudoo-ESLint-Config](//github.com/SudoDotDog/Sudoo-ESLint-Config)               | ❌   | ✅    | [Document](//eslint-config.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/eslint-config)               |
 | [Sudoo-Exif](//github.com/SudoDotDog/Sudoo-Exif)                                 | ✅   | ✅    | [Document](//exif.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/exif)                                 |
 | [Sudoo-Exif-Node](//github.com/SudoDotDog/Sudoo-Exif-Node)                       | ❌   | ✅    | [Document](//exif-node.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/exif-node)                       |
+| [Sudoo-Express](//github.com/SudoDotDog/Sudoo-Express)                           | ❌   | ✅    | [Document](//express.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/express)                           |
 | [Sudoo-Fetch](//github.com/SudoDotDog/Sudoo-Fetch)                               | ✅   | ❌    | [Document](//fetch.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/fetch)                               |
 | [Sudoo-Geometry](//github.com/SudoDotDog/Sudoo-Geometry)                         | ✅   | ✅    | [Document](//geometry.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/geometry)                         |
 | [Sudoo-Immutable](//github.com/SudoDotDog/Sudoo-Immutable)                       | ✅   | ✅    | [Document](//immutable.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/immutable)                       |

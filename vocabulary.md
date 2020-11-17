@@ -86,6 +86,12 @@ Vocabulary Ordered
 -   [Document](//exif-node.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/exif-node)
 
+### [Sudoo-Express](//github.com/SudoDotDog/Sudoo-Express)
+
+-   Environment: Node
+-   [Document](//express.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/express)
+
 ## F
 
 ### [Sudoo-Fetch](//github.com/SudoDotDog/Sudoo-Fetch)
