@@ -108,6 +108,12 @@ Vocabulary Ordered
 -   [Document](//geometry.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/geometry)
 
+### [Sudoo-Generator](//github.com/SudoDotDog/Sudoo-Generator)
+
+-   Environment: Web / Node
+-   [Document](//generator.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/generator)
+
 ## I
 
 ### [Sudoo-Immutable](//github.com/SudoDotDog/Sudoo-Immutable)

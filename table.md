@@ -21,6 +21,7 @@ Table Ordered
 | [Sudoo-Express](//github.com/SudoDotDog/Sudoo-Express)                           | ❌   | ✅    | [Document](//express.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/express)                           |
 | [Sudoo-Fetch](//github.com/SudoDotDog/Sudoo-Fetch)                               | ✅   | ❌    | [Document](//fetch.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/fetch)                               |
 | [Sudoo-Geometry](//github.com/SudoDotDog/Sudoo-Geometry)                         | ✅   | ✅    | [Document](//geometry.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/geometry)                         |
+| [Sudoo-Generator](//github.com/SudoDotDog/Sudoo-Generator)                       | ✅   | ✅    | [Document](//generator.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/generator)                       |
 | [Sudoo-Immutable](//github.com/SudoDotDog/Sudoo-Immutable)                       | ✅   | ✅    | [Document](//immutable.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/immutable)                       |
 | [Sudoo-Internationalization](//github.com/SudoDotDog/Sudoo-Internationalization) | ✅   | ✅    | [Document](//internationalization.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/internationalization) |
 | [Sudoo-Iterator](//github.com/SudoDotDog/Sudoo-Iterator)                         | ✅   | ✅    | [Document](//iterator.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/iterator)                         |
