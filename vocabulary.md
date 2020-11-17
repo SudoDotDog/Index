@@ -68,6 +68,12 @@ Vocabulary Ordered
 -   [Document](//environment.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/environment)
 
+### [Sudoo-ESlint-Config](//github.com/SudoDotDog/Sudoo-ESlint-Config)
+
+-   Environment: Node
+-   [Document](//eslint-config.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/eslint-config)
+
 ### [Sudoo-Exif](//github.com/SudoDotDog/Sudoo-Exif)
 
 -   Environment: Web / Node
