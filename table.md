@@ -36,6 +36,7 @@ Table Ordered
 | [Sudoo-Mimetype](//github.com/SudoDotDog/Sudoo-Mimetype)                         | ✅   | ✅    | [Document](//mimetype.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/mimetype)                         |
 | [Sudoo-Mock](//github.com/SudoDotDog/Sudoo-Mock)                                 | ✅   | ✅    | [Document](//mock.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/mock)                                 |
 | [Sudoo-Node-Webpack](//github.com/SudoDotDog/Sudoo-Node-Webpack)                 | ❌   | ✅    | [Document](//node-webpack.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/webpack-node)                 |
+| [Sudoo-Note-Map](//github.com/SudoDotDog/Sudoo-Note-Map)                         | ✅   | ✅    | [Document](//note-map.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/note-map)                         |
 | [Sudoo-Numeric](//github.com/SudoDotDog/Sudoo-Numeric)                           | ✅   | ✅    | [Document](//numeric.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/numeric)                           |
 | [Sudoo-Optimization](//github.com/SudoDotDog/Sudoo-Optimization)                 | ✅   | ✅    | [Document](//optimization.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/optimization)                 |
 | [Sudoo-Password](//github.com/SudoDotDog/Sudoo-Password)                         | ❌   | ✅    | [Document](//password.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/password)                         |

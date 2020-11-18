@@ -208,6 +208,12 @@ Vocabulary Ordered
 -   [Document](//node-webpack.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/webpack-node)
 
+### [Sudoo-Note-Map](//github.com/SudoDotDog/Sudoo-Note-Map)
+
+-   Environment: Web / Node
+-   [Document](//note-map.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/note-map)
+
 ### [Sudoo-Numeric](//github.com/SudoDotDog/Sudoo-Numeric)
 
 -   Environment: Web / Node
