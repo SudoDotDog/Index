@@ -194,6 +194,12 @@ Vocabulary Ordered
 -   [Document](//mimetype.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/mimetype)
 
+### [Sudoo-Mocha-Config](//github.com/SudoDotDog/Sudoo-Mocha-Config)
+
+-   Environment: Node
+-   [Document](//mocha-config.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/mocha-config)
+
 ### [Sudoo-Mock](//github.com/SudoDotDog/Sudoo-Mock)
 
 -   Environment: Web / Node
