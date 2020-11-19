@@ -11,5 +11,6 @@
         "codecov",
         "mengw",
         "npmjs"
-    ]
+    ],
+    "editor.wordWrap": "off"
 }
