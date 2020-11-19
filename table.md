@@ -34,6 +34,8 @@ Table Ordered
 | [Marked](//github.com/SudoDotDog/Marked)                                         | ✅   | ✅    | [Document](//marked.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/marked)                             |
 | [Sudoo-Matrix](//github.com/SudoDotDog/Sudoo-Matrix)                             | ✅   | ✅    | [Document](//matrix.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/matrix)                             |
 | [Sudoo-Mimetype](//github.com/SudoDotDog/Sudoo-Mimetype)                         | ✅   | ✅    | [Document](//mimetype.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/mimetype)                         |
+| [Sudoo-Mocha-Config](//github.com/SudoDotDog/Sudoo-Mocha-Config)                 | ✅   | ✅    | [Document](//mocha-config.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/mocha-config)                 |
+| [Sudoo-Mocha-Config-React](//github.com/SudoDotDog/Sudoo-Mocha-Config-React)     | ✅   | ✅    | [Document](//mocha-config-react.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/mocha-config-react)     |
 | [Sudoo-Mock](//github.com/SudoDotDog/Sudoo-Mock)                                 | ✅   | ✅    | [Document](//mock.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/mock)                                 |
 | [Sudoo-Node-Webpack](//github.com/SudoDotDog/Sudoo-Node-Webpack)                 | ❌   | ✅    | [Document](//node-webpack.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/webpack-node)                 |
 | [Sudoo-Note-Map](//github.com/SudoDotDog/Sudoo-Note-Map)                         | ✅   | ✅    | [Document](//note-map.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/note-map)                         |
