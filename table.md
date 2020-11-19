@@ -42,6 +42,7 @@ Table Ordered
 | [Sudoo-Password](//github.com/SudoDotDog/Sudoo-Password)                         | ❌   | ✅    | [Document](//password.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/password)                         |
 | [Sudoo-Pattern](//github.com/SudoDotDog/Sudoo-Pattern)                           | ✅   | ✅    | [Document](//pattern.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/pattern)                           |
 | [Sudoo-Pattern-Geometry](//github.com/SudoDotDog/Sudoo-Pattern-Geometry)         | ✅   | ✅    | [Document](//pattern-geometry.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/pattern-geometry)         |
+| [Sudoo-Pile](//github.com/SudoDotDog/Sudoo-Pile)                                 | ✅   | ✅    | [Document](//pile.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/pile)                                 |
 | [Sudoo-Processor](//github.com/SudoDotDog/Sudoo-Processor)                       | ✅   | ✅    | [Document](//processor.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/processor)                       |
 | [Sudoo-Random](//github.com/SudoDotDog/Sudoo-Random)                             | ✅   | ✅    | [Document](//random.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/random)                             |
 | [Sudoo-React-Webpack](//github.com/SudoDotDog/Sudoo-React-Webpack)               | ✅   | ✅    | [Document](//react-webpack.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/webpack-react)               |
