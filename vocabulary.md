@@ -74,6 +74,18 @@ Vocabulary Ordered
 -   [Document](//eslint-config.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/eslint-config)
 
+### [Sudoo-ESlint-Config-React](//github.com/SudoDotDog/Sudoo-ESlint-Config-React)
+
+-   Environment: Node
+-   [Document](//eslint-config-react.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/eslint-config-react)
+
+### [Sudoo-ESlint-Config-React-A11y](//github.com/SudoDotDog/Sudoo-ESlint-Config-React-A11y)
+
+-   Environment: Node
+-   [Document](//eslint-config-react-a11y.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/eslint-config-react-a11y)
+
 ### [Sudoo-Exif](//github.com/SudoDotDog/Sudoo-Exif)
 
 -   Environment: Web / Node
