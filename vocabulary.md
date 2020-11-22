@@ -371,3 +371,11 @@ Vocabulary Ordered
 -   Environment: Web / Node
 -   [Document](//version.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/version)
+
+## W
+
+### [Sudoo-Wave](//github.com/SudoDotDog/Sudoo-Wave)
+
+-   Environment: Web / Node
+-   [Document](//wave.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/wave)
