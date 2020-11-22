@@ -61,3 +61,4 @@ Table Ordered
 | 53     | [Sudoo-URL](//github.com/SudoDotDog/Sudoo-URL)                                             | ✅   | ✅    | [Document](//url.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/url)                                           |
 | 54     | [Sudoo-Verify](//github.com/SudoDotDog/Sudoo-Verify)                                       | ✅   | ✅    | [Document](//verify.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/verify)                                     |
 | 55     | [Sudoo-Version](//github.com/SudoDotDog/Sudoo-Version)                                     | ✅   | ✅    | [Document](//version.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/version)                                   |
+| 56     | [Sudoo-Wave](//github.com/SudoDotDog/Sudoo-Wave)                                           | ✅   | ✅    | [Document](//wave.sudo.dog) / [NPM](//npmjs.com/package/@sudoo/wave)                                         |
