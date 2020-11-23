@@ -110,6 +110,12 @@ Vocabulary Ordered
 -   [Document](//express-test.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/express-test)
 
+### [Sudoo-Extract](//github.com/SudoDotDog/Sudoo-Extract)
+
+-   Environment: Node
+-   [Document](//extract.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/extract)
+
 ## F
 
 ### [Sudoo-Fetch](//github.com/SudoDotDog/Sudoo-Fetch)
