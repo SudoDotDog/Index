@@ -321,6 +321,12 @@ Vocabulary Ordered
 -   [Document](//react-webpack.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/webpack-react)
 
+### [Sudoo-Ronpa-TypeScript](//github.com/SudoDotDog/Sudoo-Ronpa-TypeScript)
+
+-   Environment: Web / Node
+-   [Document](//ronpa-typescript.sudo.dog)
+-   [NPM](//npmjs.com/package/ronpa)
+
 ## S
 
 ### [Sudoo-Search](//github.com/SudoDotDog/Sudoo-Search)
