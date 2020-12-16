@@ -138,6 +138,12 @@ Vocabulary Ordered
 -   [Document](//generator.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/generator)
 
+### [Git-Commit](//github.com/SudoDotDog/Git-Commit)
+
+-   Environment: Web / Node
+-   [Document](//git-commit.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/git-commit)
+
 ## I
 
 ### [Sudoo-Immutable](//github.com/SudoDotDog/Sudoo-Immutable)
