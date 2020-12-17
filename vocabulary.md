@@ -365,6 +365,12 @@ Vocabulary Ordered
 -   [Document](//ssr.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/ssr)
 
+### [Sudoo-Stenography](//github.com/SudoDotDog/Sudoo-Stenography)
+
+-   Environment: Web
+-   [Document](//stenography.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/stenography)
+
 ## T
 
 ### [Sudoo-Title](//github.com/SudoDotDog/Sudoo-Title)
