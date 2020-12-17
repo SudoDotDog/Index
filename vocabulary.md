@@ -367,6 +367,12 @@ Vocabulary Ordered
 -   [Document](//title.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/title)
 
+### [Sudoo-Throttle](//github.com/SudoDotDog/Sudoo-Throttle)
+
+-   Environment: Web / Node
+-   [Document](//throttle.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/throttle)
+
 ### [Sudoo-Token](//github.com/SudoDotDog/Sudoo-Token)
 
 -   Environment: Node
