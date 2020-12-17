@@ -373,6 +373,12 @@ Vocabulary Ordered
 
 ## T
 
+### [Sudoo-Time](//github.com/SudoDotDog/Sudoo-Time)
+
+-   Environment: Web / Node
+-   [Document](//time.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/time)
+
 ### [Sudoo-Title](//github.com/SudoDotDog/Sudoo-Title)
 
 -   Environment: Web
