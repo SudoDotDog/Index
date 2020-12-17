@@ -144,6 +144,12 @@ Vocabulary Ordered
 -   [Document](//git-commit.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/git-commit)
 
+### [Git-Commit-CLI](//github.com/SudoDotDog/Git-Commit-CLI)
+
+-   Environment: Web / Node
+-   [Document](//git-commit-cli.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/git-commit-cli)
+
 ## I
 
 ### [Sudoo-Immutable](//github.com/SudoDotDog/Sudoo-Immutable)
