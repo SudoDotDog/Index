@@ -329,9 +329,15 @@ Vocabulary Ordered
 
 ### [Sudoo-React-Webpack](//github.com/SudoDotDog/Sudoo-React-Webpack)
 
--   Environment: Web / Node
+-   Environment: Node
 -   [Document](//react-webpack.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/webpack-react)
+
+### [Sudoo-Redux](//github.com/SudoDotDog/Sudoo-Redux)
+
+-   Environment: Node
+-   [Document](//redux.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/redux)
 
 ### [Ronpa-Mongoose](//github.com/SudoDotDog/Ronpa-Mongoose)
 
