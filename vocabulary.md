@@ -359,6 +359,12 @@ Vocabulary Ordered
 -   [Document](//search.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/search)
 
+### [Sudoo-Secret](//github.com/SudoDotDog/Sudoo-Secret)
+
+-   Environment: Node
+-   [Document](//secret.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/secret)
+
 ### [Sudoo-Socket](//github.com/SudoDotDog/Sudoo-Socket)
 
 -   Environment: Node
