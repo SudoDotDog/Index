@@ -214,7 +214,7 @@ Vocabulary Ordered
 
 -   Environment: Dart / Flutter
 -   [Document](//dart-logo.sudo.dog)
--   [Pub](//pub.dev/packages/logo)
+-   [pub.dev](//pub.dev/packages/logo)
 
 ## M
 
