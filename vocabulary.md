@@ -210,6 +210,12 @@ Vocabulary Ordered
 -   [Document](//log.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/log)
 
+### [Dart-Logo](//github.com/SudoDotDog/Dart-Logo)
+
+-   Environment: Dart / Flutter
+-   [Document](//dart-logo.sudo.dog)
+-   [Pub](//pub.dev/packages/logo)
+
 ## M
 
 ### [Sudoo-Magic](//github.com/SudoDotDog/Sudoo-Magic)
