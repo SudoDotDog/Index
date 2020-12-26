@@ -132,6 +132,12 @@ Vocabulary Ordered
 
 ## G
 
+### [Dart-Geometry](//github.com/SudoDotDog/Dart-Geometry)
+
+-   Environment: Dart / Flutter
+-   [Document](//dart-geometry.sudo.dog)
+-   [pub.dev](//pub.dev/packages/coordinate)
+
 ### [Sudoo-Geometry](//github.com/SudoDotDog/Sudoo-Geometry)
 
 -   Environment: Web / Node
