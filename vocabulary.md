@@ -196,6 +196,12 @@ Vocabulary Ordered
 -   [Document](//jwt.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/jwt)
 
+### [Sudoo-JWT-Web](//github.com/SudoDotDog/Sudoo-JWT-Web)
+
+-   Environment: Web
+-   [Document](//jwt-web.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/jwt-web)
+
 ## L
 
 ### [Sudoo-Lambda](//github.com/SudoDotDog/Sudoo-Lambda)
