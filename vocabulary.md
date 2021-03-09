@@ -196,6 +196,12 @@ Vocabulary Ordered
 -   [Document](//jwt.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/jwt)
 
+### [Dart-JWT](//github.com/SudoDotDog/Sudo-JWT)
+
+-   Environment: Dart / Flutter
+-   [Document](//sudo-jwt.sudo.dog)
+-   [PUB](//pub.dev/packages/sudo_jwt)
+
 ### [Sudoo-JWT-Web](//github.com/SudoDotDog/Sudoo-JWT-Web)
 
 -   Environment: Web
