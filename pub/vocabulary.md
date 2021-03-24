@@ -41,3 +41,11 @@ Packaged published to PUB, Vocabulary Ordered
 -   Environment: Dart / iOS / Android / Web / Windows / Mac
 -   [Document](//dart-numeric.sudo.dog)
 -   [pub.dev](//pub.dev/packages/numeric)
+
+## S
+
+### [Sudo-SQL-Builder](//github.com/SudoDotDog/Sudo-SQL-Builder)
+
+-   Environment: Dart / iOS / Android / Web / Windows / Mac
+-   [Document](//sudo-sql-builder.sudo.dog)
+-   [pub.dev](//pub.dev/packages/sudo_sql_builder)

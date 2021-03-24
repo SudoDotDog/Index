@@ -11,3 +11,4 @@ Packaged published to PUB, Table Ordered
 | 3      | [Sudo-Localizations-Date](//github.com/SudoDotDog/Sudo-Localizations-Date) | ❌    | ✅   | ✅       | ✅   | ✅       | ✅     | [Document](//localizations-date.sudo.dog) / [PUB](//pub.dev/packages/localizations_date) |
 | 4      | [Dart-Logo](//github.com/SudoDotDog/Dart-Logo)                             | ✅    | ✅   | ✅       | ✅   | ✅       | ✅     | [Document](//dart-logo.sudo.dog) / [PUB](//pub.dev/packages/logo)                        |
 | 5      | [Dart-Numeric](//github.com/SudoDotDog/Dart-Numeric)                       | ✅    | ✅   | ✅       | ✅   | ✅       | ✅     | [Document](//dart-numeric.sudo.dog) / [PUB](//pub.dev/packages/numeric)                  |
+| 6      | [Sudo-SQL-Builder](//github.com/SudoDotDog/Sudo-SQL-Builder)               | ✅    | ✅   | ✅       | ✅   | ✅       | ✅     | [Document](//sudo-sql-builder.sudo.dog) / [PUB](//pub.dev/packages/sudo_sql_builder)     |
