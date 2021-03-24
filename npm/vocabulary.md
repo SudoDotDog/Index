@@ -1,6 +1,6 @@
-# Dictionary
+# NPM Dictionary
 
-Vocabulary Ordered
+Packaged published to NPM, Vocabulary Ordered
 
 > For table ordered dictionary, see [Table Ordered Dictionary](./table).
 
