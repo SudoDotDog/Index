@@ -22,11 +22,11 @@ Packaged published to PUB, Vocabulary Ordered
 
 ## L
 
-### [Sudo-Localization-Date](//github.com/SudoDotDog/Sudo-Localization-Date)
+### [Sudo-Localizations-Date](//github.com/SudoDotDog/Sudo-Localizations-Date)
 
 -   Environment: iOS / Android / Web / Windows / Mac
--   [Document](//localization-date.sudo.dog)
--   [pub.dev](//pub.dev/packages/localization_date)
+-   [Document](//localizations-date.sudo.dog)
+-   [pub.dev](//pub.dev/packages/localizations_date)
 
 ### [Dart-Logo](//github.com/SudoDotDog/Dart-Logo)
 
