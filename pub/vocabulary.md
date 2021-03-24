@@ -14,7 +14,7 @@ Packaged published to PUB, Vocabulary Ordered
 
 ## J
 
-### [Dart-JWT](//github.com/SudoDotDog/Sudo-JWT)
+### [Sudo-JWT](//github.com/SudoDotDog/Sudo-JWT)
 
 -   Environment: Dart / iOS / Android / Web / Windows / Mac
 -   [Document](//sudo-jwt.sudo.dog)
