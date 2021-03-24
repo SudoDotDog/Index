@@ -33,3 +33,11 @@ Packaged published to PUB, Vocabulary Ordered
 -   Environment: Dart / iOS / Android / Web / Windows / Mac
 -   [Document](//dart-logo.sudo.dog)
 -   [pub.dev](//pub.dev/packages/logo)
+
+## N
+
+### [Dart-Numeric](//github.com/SudoDotDog/Dart-Numeric)
+
+-   Environment: Dart / iOS / Android / Web / Windows / Mac
+-   [Document](//dart-numeric.sudo.dog)
+-   [pub.dev](//pub.dev/packages/numeric)
