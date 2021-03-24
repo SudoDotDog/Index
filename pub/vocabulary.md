@@ -22,6 +22,12 @@ Packaged published to PUB, Vocabulary Ordered
 
 ## L
 
+### [Sudo-Localization-Date](//github.com/SudoDotDog/Sudo-Localization-Date)
+
+-   Environment: iOS / Android / Web / Windows / Mac
+-   [Document](//localization-date.sudo.dog)
+-   [pub.dev](//pub.dev/packages/localization_date)
+
 ### [Dart-Logo](//github.com/SudoDotDog/Dart-Logo)
 
 -   Environment: Dart / iOS / Android / Web / Windows / Mac
