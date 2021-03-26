@@ -4,6 +4,14 @@ Packaged published to PUB, Vocabulary Ordered
 
 > For table ordered dictionary, see [Table Ordered Dictionary](./table).
 
+## A
+
+### [Dart-Alias](//github.com/SudoDotDog/Dart-Alias)
+
+-   Environment: Dart / iOS / Android / Web / Windows / Mac
+-   [Document](//dart-alias.sudo.dog)
+-   [pub.dev](//pub.dev/packages/alias)
+
 ## G
 
 ### [Dart-Geometry](//github.com/SudoDotDog/Dart-Geometry)
