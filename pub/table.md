@@ -6,6 +6,7 @@ Packaged published to PUB, Table Ordered
 
 | Number | Package                                                                    | Dart | iOS | Android | Web | Windows | MacOS | Link                                                                                     |
 | ------ | -------------------------------------------------------------------------- | ---- | --- | ------- | --- | ------- | ----- | ---------------------------------------------------------------------------------------- |
+| 1      | [Dart-Alias](//github.com/SudoDotDog/Dart-Alias)                           | ✅    | ✅   | ✅       | ✅   | ✅       | ✅     | [Document](//dart-alias.sudo.dog) / [PUB](//pub.dev/packages/alias)                      |
 | 1      | [Dart-Geometry](//github.com/SudoDotDog/Dart-Geometry)                     | ✅    | ✅   | ✅       | ✅   | ✅       | ✅     | [Document](//dart-geometry.sudo.dog) / [PUB](//pub.dev/packages/coordinate)              |
 | 2      | [Sudo-JWT](//github.com/SudoDotDog/Sudo-JWT)                               | ✅    | ✅   | ✅       | ✅   | ✅       | ✅     | [Document](//sudo-jwt.sudo.dog) / [PUB](//pub.dev/packages/sudo_jwt)                     |
 | 3      | [Sudo-Localizations-Date](//github.com/SudoDotDog/Sudo-Localizations-Date) | ❌    | ✅   | ✅       | ✅   | ✅       | ✅     | [Document](//localizations-date.sudo.dog) / [PUB](//pub.dev/packages/localizations_date) |
