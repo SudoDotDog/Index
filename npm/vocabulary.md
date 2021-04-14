@@ -66,6 +66,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//duplicate.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/duplicate)
 
+### [Sudoo-Dynamo-Builder](//github.com/SudoDotDog/Sudoo-Dynamo-Builder)
+
+-   Environment: Web / Node
+-   [Document](//dynamo-builder.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/dynamo-builder)
+
 ## E
 
 ### [Sudoo-Environment](//github.com/SudoDotDog/Sudoo-Environment)
