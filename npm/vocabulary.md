@@ -138,12 +138,6 @@ Packaged published to NPM, Vocabulary Ordered
 
 ## G
 
-### [Dart-Geometry](//github.com/SudoDotDog/Dart-Geometry)
-
--   Environment: Dart / Flutter
--   [Document](//dart-geometry.sudo.dog)
--   [pub.dev](//pub.dev/packages/coordinate)
-
 ### [Sudoo-Geometry](//github.com/SudoDotDog/Sudoo-Geometry)
 
 -   Environment: Web / Node
@@ -202,12 +196,6 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//jwt.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/jwt)
 
-### [Dart-JWT](//github.com/SudoDotDog/Sudo-JWT)
-
--   Environment: Dart / Flutter
--   [Document](//sudo-jwt.sudo.dog)
--   [PUB](//pub.dev/packages/sudo_jwt)
-
 ### [Sudoo-JWT-Web](//github.com/SudoDotDog/Sudoo-JWT-Web)
 
 -   Environment: Web
@@ -233,12 +221,6 @@ Packaged published to NPM, Vocabulary Ordered
 -   Environment: Web / Node
 -   [Document](//log.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/log)
-
-### [Dart-Logo](//github.com/SudoDotDog/Dart-Logo)
-
--   Environment: Dart / Flutter
--   [Document](//dart-logo.sudo.dog)
--   [pub.dev](//pub.dev/packages/logo)
 
 ## M
 
