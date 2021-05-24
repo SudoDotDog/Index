@@ -383,6 +383,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//secret.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/secret)
 
+### [Slay-The-Spire](//github.com/SudoDotDog/Slay-The-Spire)
+
+-   Environment: Node
+-   [Document](//slay-the-spire.sudo.dog)
+-   [NPM](//npmjs.com/package/slay-the-spire)
+
 ### [Sudoo-Socket](//github.com/SudoDotDog/Sudoo-Socket)
 
 -   Environment: Node
