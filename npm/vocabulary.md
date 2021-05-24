@@ -136,6 +136,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//fetch.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/fetch)
 
+### [For-The-King](//github.com/SudoDotDog/For-The-King)
+
+-   Environment: Web / Node
+-   [Document](//for-the-king.sudo.dog)
+-   [NPM](//npmjs.com/package/for-the-king)
+
 ## G
 
 ### [Sudoo-Geometry](//github.com/SudoDotDog/Sudoo-Geometry)
@@ -385,7 +391,7 @@ Packaged published to NPM, Vocabulary Ordered
 
 ### [Slay-The-Spire](//github.com/SudoDotDog/Slay-The-Spire)
 
--   Environment: Node
+-   Environment: Web / Node
 -   [Document](//slay-the-spire.sudo.dog)
 -   [NPM](//npmjs.com/package/slay-the-spire)
 
