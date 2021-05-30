@@ -182,6 +182,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//internationalization.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/internationalization)
 
+### [Sudoo-Internationalization-React](//github.com/SudoDotDog/Sudoo-Internationalization-React)
+
+-   Environment: Web
+-   [Document](//internationalization-react.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/internationalization-react)
+
 ### [Sudoo-Iterator](//github.com/SudoDotDog/Sudoo-Iterator)
 
 -   Environment: Web / Node
@@ -306,6 +312,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//optimization.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/optimization)
 
+### [Sudoo-Optional](//github.com/SudoDotDog/Sudoo-Optional)
+
+-   Environment: Web / Node
+-   [Document](//optional.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/optional)
+
 ## P
 
 ### [Sudoo-Password](//github.com/SudoDotDog/Sudoo-Password)
@@ -426,6 +438,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   Environment: Web
 -   [Document](//title.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/title)
+
+### [Sudoo-Title-React](//github.com/SudoDotDog/Sudoo-Title-React)
+
+-   Environment: Web
+-   [Document](//title-react.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/title-react)
 
 ### [Sudoo-Throttle](//github.com/SudoDotDog/Sudoo-Throttle)
 
