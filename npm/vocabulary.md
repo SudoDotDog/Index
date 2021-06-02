@@ -184,7 +184,7 @@ Packaged published to NPM, Vocabulary Ordered
 
 ### [Sudoo-Internationalization-React](//github.com/SudoDotDog/Sudoo-Internationalization-React)
 
--   Environment: Web
+-   Environment: Web / SSR
 -   [Document](//internationalization-react.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/internationalization-react)
 
@@ -204,7 +204,7 @@ Packaged published to NPM, Vocabulary Ordered
 
 ### [Sudoo-JSS](//github.com/SudoDotDog/Sudoo-JSS)
 
--   Environment: Web
+-   Environment: Web / SSR
 -   [Document](//jss.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/jss)
 
@@ -216,7 +216,7 @@ Packaged published to NPM, Vocabulary Ordered
 
 ### [Sudoo-JWT-Web](//github.com/SudoDotDog/Sudoo-JWT-Web)
 
--   Environment: Web
+-   Environment: Web / SSR
 -   [Document](//jwt-web.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/jwt-web)
 
@@ -441,13 +441,13 @@ Packaged published to NPM, Vocabulary Ordered
 
 ### [Sudoo-Title](//github.com/SudoDotDog/Sudoo-Title)
 
--   Environment: Web
+-   Environment: Web / SSR
 -   [Document](//title.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/title)
 
 ### [Sudoo-Title-React](//github.com/SudoDotDog/Sudoo-Title-React)
 
--   Environment: Web
+-   Environment: Web / SSR
 -   [Document](//title-react.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/title-react)
 
