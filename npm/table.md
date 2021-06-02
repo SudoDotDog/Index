@@ -2,7 +2,8 @@
 
 Packaged published to NPM, Table Ordered
 
-> For vocabulary ordered dictionary, see [Vocabulary Ordered Dictionary](./vocabulary).
+> For vocabulary ordered dictionary, see [Vocabulary Ordered Dictionary](./vocabulary).  
+> Read [Platform Description](./platform-description)
 
 | Number | Package                                                                                      | Web | Node | Link                                                                                                             |
 | ------ | -------------------------------------------------------------------------------------------- | --- | ---- | ---------------------------------------------------------------------------------------------------------------- |
