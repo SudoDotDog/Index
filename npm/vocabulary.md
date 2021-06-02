@@ -3,7 +3,7 @@
 Packaged published to NPM, Vocabulary Ordered
 
 > For table ordered dictionary, see [Table Ordered Dictionary](./table).  
-> Read [Platform Description](./platform-description)
+> Read [Platform Description](./platform-description).
 
 ## A
 
