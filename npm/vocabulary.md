@@ -440,6 +440,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//time.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/time)
 
+### [Sudoo-Time-React](//github.com/SudoDotDog/Sudoo-Time-React)
+
+-   Environment: Web / SSR
+-   [Document](//time-react.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/time-react)
+
 ### [Sudoo-Title](//github.com/SudoDotDog/Sudoo-Title)
 
 -   Environment: Web / SSR
