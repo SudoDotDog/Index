@@ -438,7 +438,19 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//stenography.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/stenography)
 
+### [Sudoo-Stream](//github.com/SudoDotDog/Sudoo-Stream)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//stream.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/stream)
+
 ## T
+
+### [Sudoo-Terminal](//github.com/SudoDotDog/Sudoo-Terminal)
+
+-   Environment: NodeJS
+-   [Document](//terminal.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/terminal)
 
 ### [Sudoo-Time](//github.com/SudoDotDog/Sudoo-Time)
 
