@@ -55,6 +55,12 @@ Packaged published to NPM, Vocabulary Ordered
 
 ## D
 
+### [Sudoo-Digest](//github.com/SudoDotDog/Sudoo-Digest)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//digest.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/digest)
+
 ### [Sudoo-Dump](//github.com/SudoDotDog/Sudoo-Dump)
 
 -   Environment: Browser / NodeJS / React Native
