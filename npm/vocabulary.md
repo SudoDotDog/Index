@@ -221,6 +221,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//jwt.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/jwt)
 
+### [Sudoo-JWT-Config](//github.com/SudoDotDog/Sudoo-JWT-Config)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//jwt-config.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/jwt-config)
+
 ### [Sudoo-JWT-Verify](//github.com/SudoDotDog/Sudoo-JWT-Verify)
 
 -   Environment: Browser / NodeJS / React Native
