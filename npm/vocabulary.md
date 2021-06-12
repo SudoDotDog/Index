@@ -325,6 +325,12 @@ Packaged published to NPM, Vocabulary Ordered
 
 ## O
 
+### [Sudoo-Onion](//github.com/SudoDotDog/Sudoo-Onion)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//onion.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/onion)
+
 ### [Sudoo-Optimization](//github.com/SudoDotDog/Sudoo-Optimization)
 
 -   Environment: Browser / NodeJS / React Native
