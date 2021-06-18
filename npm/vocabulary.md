@@ -394,6 +394,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   Environment: NodeJS
 -   [Document](//react-force.sudo.dog)
 
+### [Sudoo-React-Hooks](//github.com/SudoDotDog/Sudoo-React-Hooks)
+
+-   Environment: Browser / NodeJS SSR / React Native
+-   [Document](//react-hooks.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/react-hooks)
+
 ### [Sudoo-React-Webpack](//github.com/SudoDotDog/Sudoo-React-Webpack)
 
 -   Environment: NodeJS
