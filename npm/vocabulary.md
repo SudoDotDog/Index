@@ -375,6 +375,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//pattern.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/pattern)
 
+### [Sudoo-Pattern-Chore](//github.com/SudoDotDog/Sudoo-Pattern-Chore)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//pattern-chore.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/pattern-chore)
+
 ### [Sudoo-Pattern-Chore-US](//github.com/SudoDotDog/Sudoo-Pattern-Chore-US)
 
 -   Environment: Browser / NodeJS / React Native
