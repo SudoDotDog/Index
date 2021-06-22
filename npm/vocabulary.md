@@ -436,6 +436,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//redux.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/redux)
 
+### [Sudoo-Reference-Map](//github.com/SudoDotDog/Sudoo-Reference-Map)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//reference-map.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/reference-map)
+
 ### [Ronpa-Mongoose](//github.com/SudoDotDog/Ronpa-Mongoose)
 
 -   Environment: NodeJS
