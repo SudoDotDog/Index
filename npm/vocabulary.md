@@ -599,3 +599,11 @@ Packaged published to NPM, Vocabulary Ordered
 -   Environment: Browser / NodeJS / React Native
 -   [Document](//wave.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/wave)
+
+## Z
+
+### [Sudoo-Zulu](//github.com/SudoDotDog/Sudoo-Zulu)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//zulu.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/zulu)
