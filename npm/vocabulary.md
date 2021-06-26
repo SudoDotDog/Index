@@ -606,6 +606,14 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//wave.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/wave)
 
+## X
+
+### [Sudoo-Xenocount](//github.com/SudoDotDog/Sudoo-Xenocount)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//xenocount.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/xenocount)
+
 ## Y
 
 ### [Sudoo-YAML](//github.com/SudoDotDog/Sudoo-YAML)
