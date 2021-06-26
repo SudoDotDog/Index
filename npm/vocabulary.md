@@ -608,7 +608,7 @@ Packaged published to NPM, Vocabulary Ordered
 
 ## X
 
-### [Sudoo-Xenocount](//github.com/SudoDotDog/Sudoo-Xenocount)
+### [Xenocount](//github.com/SudoDotDog/Xenocount)
 
 -   Environment: Browser / NodeJS / React Native
 -   [Document](//xenocount.sudo.dog)
