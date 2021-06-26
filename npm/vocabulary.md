@@ -273,6 +273,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//lambda-verify.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/lambda-verify)
 
+### [Sudoo-Lazy](//github.com/SudoDotDog/Sudoo-Lazy)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//lazy.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/lazy)
+
 ### [Sudoo-Log](//github.com/SudoDotDog/Sudoo-Log)
 
 -   Environment: Browser / NodeJS / React Native
@@ -599,6 +605,14 @@ Packaged published to NPM, Vocabulary Ordered
 -   Environment: Browser / NodeJS / React Native
 -   [Document](//wave.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/wave)
+
+## Y
+
+### [Sudoo-YAML](//github.com/SudoDotDog/Sudoo-YAML)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//yaml.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/yaml)
 
 ## Z
 
