@@ -1,0 +1,7 @@
+title: Sudoo Package Index
+email: wm@mengw.io
+url: "https://sudo.dog"
+
+theme: minima
+plugins:
+  - jekyll-feed
