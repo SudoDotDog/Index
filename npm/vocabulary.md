@@ -594,7 +594,7 @@ Packaged published to NPM, Vocabulary Ordered
 
 ### [Sudoo-Version](//github.com/SudoDotDog/Sudoo-Version)
 
--   Environment: Browser / NodeJS / React Native
+-   Environment: NodeJS
 -   [Document](//version.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/version)
 
