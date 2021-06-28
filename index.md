@@ -8,7 +8,7 @@ Sudoo packages are some `JavaScript NPM` and `Dart PUB` packages.
 
 ## Usage
 
--   Case Study > [Sudoo Package Blog](//sudo.mengw.io)
+-   Blog & Case Study > [Sudoo Package Blog & Case Study](//sudo.mengw.io)
 
 ## NPM Dictionary, Source and Document
 
