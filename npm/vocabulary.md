@@ -335,6 +335,18 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//mock.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/mock)
 
+### [Sudoo-Mongoose-Geometry](//github.com/SudoDotDog/Sudoo-Mongoose-Geometry)
+
+-   Environment: NodeJS
+-   [Document](//mongoose-geometry.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/mongoose-geometry)
+
+### [Sudoo-Mongoose-Search](//github.com/SudoDotDog/Sudoo-Mongoose-Search)
+
+-   Environment: NodeJS
+-   [Document](//mongoose-search.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/mongoose-search)
+
 ## N
 
 ### [Sudoo-Node-Webpack](//github.com/SudoDotDog/Sudoo-Node-Webpack)
