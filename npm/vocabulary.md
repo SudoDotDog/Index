@@ -191,6 +191,12 @@ Packaged published to NPM, Vocabulary Ordered
 
 ## I
 
+### [Sudoo-Image](//github.com/SudoDotDog/Sudoo-Image)
+
+-   Environment: Not Applicable
+-   [Document](//image.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/image)
+
 ### [Sudoo-Immutable](//github.com/SudoDotDog/Sudoo-Immutable)
 
 -   Environment: Browser / NodeJS / React Native
