@@ -584,6 +584,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//url.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/url)
 
+### [Sudoo-UUID](//github.com/SudoDotDog/Sudoo-UUID)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//uuid.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/uuid)
+
 ## V
 
 ### [Sudoo-Verify](//github.com/SudoDotDog/Sudoo-Verify)
