@@ -470,6 +470,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//react-webpack.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/webpack-react)
 
+### [Sudoo-Readable-Identifier](//github.com/SudoDotDog/Sudoo-Readable-Identifier)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//readable-identifier.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/readable-identifier)
+
 ### [Sudoo-Redux](//github.com/SudoDotDog/Sudoo-Redux)
 
 -   Environment: NodeJS
