@@ -630,6 +630,18 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//wave.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/wave)
 
+### [Sudoo-Words](//github.com/SudoDotDog/Sudoo-Words)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//words.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/words)
+
+### [Sudoo-Words-English](//github.com/SudoDotDog/Sudoo-Words-English)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//words-english.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/words-english)
+
 ## X
 
 ### [Xenocount](//github.com/SudoDotDog/Xenocount)
