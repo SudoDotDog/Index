@@ -1,4 +1,4 @@
-# Sudoo Package Index
+# Sudoo Packages Index
 
 This site is an index of `sudoo` packages and documents. Visit the Github page for more details.
 
@@ -8,7 +8,7 @@ Sudoo packages are some `JavaScript NPM` and `Dart PUB` packages.
 
 ## Usage
 
--   Blog & Case Study > [Sudoo Package Blog & Case Study](//sudo.mengw.io)
+-   Blog & Case Study > [Sudoo Packages Blog & Case Study](//sudo.mengw.io)
 
 ## NPM Dictionary, Source and Document
 
