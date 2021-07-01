@@ -23,7 +23,7 @@ Sudoo packages are some `JavaScript NPM` and `Dart PUB` packages.
 ## Links
 
 -   SudoDotDog Github Page > [SudoDotDog Github](//github.com/SudoDotDog)
--   BWNL Package Index > [BWNL.io](//bwnl.io)
+-   BWNL Packages Index > [BWNL.io](//bwnl.io)
 -   [Brontosaurus](//github.com/SudoDotDog/Brontosaurus) authorization solution > [Brontosaurus Land](//brontosaurus.land)
 -   [Barktler](//github.com/Barktler) API solution > [Barktler.com](//barktler.com)
 -   My personal blog > [WMXPY's Automated Bug Factory](//blog.mengw.io)
