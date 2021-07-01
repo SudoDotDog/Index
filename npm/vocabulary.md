@@ -355,6 +355,12 @@ Packaged published to NPM, Vocabulary Ordered
 
 ## N
 
+### [Sudoo-Neuton](//github.com/SudoDotDog/Sudoo-Neuton)
+
+-   Environment: NodeJS
+-   [Document](//neuton.sudo.dog)
+-   [NPM](//npmjs.com/package/neuton)
+
 ### [Sudoo-Node-Webpack](//github.com/SudoDotDog/Sudoo-Node-Webpack)
 
 -   Environment: NodeJS
