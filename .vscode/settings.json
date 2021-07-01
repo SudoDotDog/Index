@@ -13,7 +13,8 @@
         "Xenocount",
         "codecov",
         "mengw",
-        "npmjs"
+        "npmjs",
+        "pageview"
     ],
     "editor.wordWrap": "off"
 }
