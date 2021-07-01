@@ -61,6 +61,12 @@ Packaged published to NPM, Vocabulary Ordered
 
 ## D
 
+### [Sudoo-Dice](//github.com/SudoDotDog/Sudoo-Dice)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//dice.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/dice)
+
 ### [Sudoo-Digest](//github.com/SudoDotDog/Sudoo-Digest)
 
 -   Environment: Browser / NodeJS / React Native
@@ -357,7 +363,7 @@ Packaged published to NPM, Vocabulary Ordered
 
 ### [Sudoo-Neuton](//github.com/SudoDotDog/Sudoo-Neuton)
 
--   Environment: NodeJS
+-   Environment: Browser / NodeJS / React Native
 -   [Document](//neuton.sudo.dog)
 -   [NPM](//npmjs.com/package/neuton)
 
@@ -499,6 +505,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   Environment: Browser / NodeJS / React Native
 -   [Document](//reference-map.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/reference-map)
+
+### [Sudoo-Resource](//github.com/SudoDotDog/Sudoo-Resource)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//resource.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/resource)
 
 ### [Ronpa-Mongoose](//github.com/SudoDotDog/Ronpa-Mongoose)
 
