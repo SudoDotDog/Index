@@ -41,6 +41,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//coco.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/coco)
 
+### [Sudoo-Coin](//github.com/SudoDotDog/Sudoo-Coin)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//coin.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/coin)
+
 ### [Sudoo-Color](//github.com/SudoDotDog/Sudoo-Color)
 
 -   Environment: Browser / NodeJS / React Native
