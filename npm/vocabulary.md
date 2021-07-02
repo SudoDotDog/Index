@@ -682,7 +682,7 @@ Packaged published to NPM, Vocabulary Ordered
 
 -   Environment: NodeJS
 -   [Document](//tslint.sudo.dog)
--   [NPM](//npmjs.com/package/@sudoo/tslint)
+-   [NPM](//npmjs.com/package/@sudoo/tslint-config)
 
 ## U
 
