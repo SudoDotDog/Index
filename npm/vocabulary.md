@@ -39,6 +39,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//buffer.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/buffer)
 
+### [Sudoo-Build-Utils](//github.com/SudoDotDog/Sudoo-Build-Utils)
+
+-   Environment: NodeJS
+-   [Document](//build-utils.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/build-utils)
+
 ## C
 
 ### [Sudoo-Center](//github.com/SudoDotDog/Sudoo-Center)
