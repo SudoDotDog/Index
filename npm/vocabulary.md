@@ -327,6 +327,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//lazy.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/lazy)
 
+### [Sudoo-License](//github.com/SudoDotDog/Sudoo-License)
+
+-   Environment: NodeJS
+-   [Document](//license.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/license)
+
 ### [Sudoo-Log](//github.com/SudoDotDog/Sudoo-Log)
 
 -   Environment: Browser / NodeJS / React Native
