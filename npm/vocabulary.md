@@ -640,6 +640,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//stream.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/stream)
 
+### [Sudoo-Styles](//github.com/SudoDotDog/Sudoo-Styles)
+
+-   Environment: Browser / NodeJS SSR
+-   [Document](//styles.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/styles)
+
 ## T
 
 ### [Sudoo-Terminal](//github.com/SudoDotDog/Sudoo-Terminal)
