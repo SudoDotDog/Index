@@ -91,6 +91,12 @@ Packaged published to NPM, Vocabulary Ordered
 
 ## D
 
+### [Sudoo-Develop](//github.com/SudoDotDog/Sudoo-Develop)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//develop.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/develop)
+
 ### [Sudoo-Dice](//github.com/SudoDotDog/Sudoo-Dice)
 
 -   Environment: Browser / NodeJS / React Native
@@ -407,6 +413,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//mongoose-search.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/mongoose-search)
 
+### [Sudoo-Monitor](//github.com/SudoDotDog/Sudoo-Monitor)
+
+-   Environment: NodeJS
+-   [Document](//monitor.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/monitor)
+
 ## N
 
 ### [Sudoo-Neuton](//github.com/SudoDotDog/Sudoo-Neuton)
@@ -701,6 +713,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   Environment: NodeJS
 -   [Document](//tslint.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/tslint-config)
+
+### [Sudoo-Two-Factor](//github.com/SudoDotDog/Sudoo-Two-Factor)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//two-factor.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/two-factor)
 
 ## U
 
