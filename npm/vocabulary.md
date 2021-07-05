@@ -728,7 +728,7 @@ Packaged published to NPM, Vocabulary Ordered
 
 ### [Sudoo-Two-Factor](//github.com/SudoDotDog/Sudoo-Two-Factor)
 
--   Environment: Browser / NodeJS / React Native
+-   Environment: NodeJS
 -   [Document](//two-factor.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/two-factor)
 
