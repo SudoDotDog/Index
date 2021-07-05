@@ -359,6 +359,18 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//magic.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/magic)
 
+### [Sudoo-Mail-Dispatcher](//github.com/SudoDotDog/Sudoo-Mail-Dispatcher)
+
+-   Environment: NodeJS
+-   [Document](//mail-dispatcher.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/mail-dispatcher)
+
+### [Sudoo-Mail-Receiver](//github.com/SudoDotDog/Sudoo-Mail-Receiver)
+
+-   Environment: NodeJS
+-   [Document](//mail-receiver.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/mail-receiver)
+
 ### [Marked](//github.com/SudoDotDog/Marked)
 
 -   Environment: Browser / NodeJS / React Native
