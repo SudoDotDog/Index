@@ -265,7 +265,7 @@ Packaged published to NPM, Vocabulary Ordered
 
 ### [Sudoo-Internationalization-React](//github.com/SudoDotDog/Sudoo-Internationalization-React)
 
--   Environment: Browser / NodeJS SSR
+-   Environment: Browser / NodeJS SSR / React Native
 -   [Document](//internationalization-react.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/internationalization-react)
 
