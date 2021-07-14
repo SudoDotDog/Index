@@ -1,6 +1,6 @@
 # Index
 
-:exclamation: Index docs
+Index docs
 
 ## Hello
 
