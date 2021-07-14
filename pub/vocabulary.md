@@ -1,3 +1,8 @@
+---
+title: PUB Dictionary
+layout: default
+---
+
 # PUB Dictionary
 
 Packaged published to PUB, Vocabulary Ordered

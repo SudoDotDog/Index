@@ -1,3 +1,8 @@
+---
+title: Platform Description
+layout: default
+---
+
 # Platform Description
 
 ## Node

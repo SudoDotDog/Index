@@ -1,3 +1,8 @@
+---
+title: NPM Dictionary
+layout: default
+---
+
 # NPM Dictionary
 
 Packaged published to NPM, Vocabulary Ordered
