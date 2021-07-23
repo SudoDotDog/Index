@@ -30,6 +30,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//asynchronous.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/asynchronous)
 
+### [Sudoo-AWS-Config](//github.com/SudoDotDog/Sudoo-AWS-Config)
+
+-   Environment: NodeJS
+-   [Document](//aws-config.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/aws-config)
+
 ## B
 
 ### [Sudoo-Bark](//github.com/SudoDotDog/Sudoo-Bark)
@@ -131,6 +137,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   Environment: Browser / NodeJS / React Native
 -   [Document](//dynamo-builder.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/dynamo-builder)
+
+### [Sudoo-Dynamo-Manager](//github.com/SudoDotDog/Sudoo-Dynamo-Manager)
+
+-   Environment: NodeJS
+-   [Document](//dynamo-manager.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/dynamo-manager)
 
 ## E
 
