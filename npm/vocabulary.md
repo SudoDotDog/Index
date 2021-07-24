@@ -651,6 +651,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//secret.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/secret)
 
+### [Sudoo-Semantic-Version](//github.com/SudoDotDog/Sudoo-Semantic-Version)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//semantic-version.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/semantic-version)
+
 ### [Sudoo-Shell](//github.com/SudoDotDog/Sudoo-Shell)
 
 -   Environment: NodeJS
