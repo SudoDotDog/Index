@@ -1,6 +1,6 @@
 ---
 title: NPM Dictionary
-layout: default
+layout: wide
 ---
 
 # NPM Dictionary
