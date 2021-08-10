@@ -37,6 +37,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//asynchronous.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/asynchronous)
 
+### [Sudoo-Attributes](//github.com/SudoDotDog/Sudoo-Attributes)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//attributes.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/attributes)
+
 ### [Sudoo-AWS-Config](//github.com/SudoDotDog/Sudoo-AWS-Config)
 
 -   Environment: NodeJS
