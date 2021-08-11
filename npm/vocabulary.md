@@ -297,6 +297,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//hello.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/hello)
 
+### [Sudoo-Huge-Integer](//github.com/SudoDotDog/Sudoo-Huge-Integer)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//huge-integer.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/huge-integer)
+
 ## I
 
 ### [Sudoo-Image](//github.com/SudoDotDog/Sudoo-Image)
