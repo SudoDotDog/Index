@@ -107,6 +107,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//compare.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/compare)
 
+### [Connor](//github.com/SudoDotDog/Connor)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//connor.sudo.dog)
+-   [NPM](//npmjs.com/package/connor)
+
 ### [Sudoo-CSV](//github.com/SudoDotDog/Sudoo-CSV)
 
 -   Environment: Browser / NodeJS / React Native
