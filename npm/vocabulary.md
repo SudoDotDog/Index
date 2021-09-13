@@ -239,6 +239,18 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//fetch.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/fetch)
 
+### [Sudoo-Flag](//github.com/SudoDotDog/Sudoo-Flag)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//flag.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/flag)
+
+### [Sudoo-Flag-Node](//github.com/SudoDotDog/Sudoo-Flag-Node)
+
+-   Environment: NodeJS
+-   [Document](//flag-node.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/flag-node)
+
 ### [Sudoo-Flow](//github.com/SudoDotDog/Sudoo-Flow)
 
 -   Environment: Browser / NodeJS / React Native
