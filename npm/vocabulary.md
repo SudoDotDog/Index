@@ -1,7 +1,8 @@
----
+* * *
+
 title: NPM Dictionary
-layout: wide
----
+
+## layout: wide
 
 # NPM Dictionary
 
@@ -23,7 +24,7 @@ Packaged published to NPM, Vocabulary Ordered
 -   Environment: NodeJS
 -   [Document](//api-key.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/api-key)
-](//npmjs.com/package/@sudoo/abacus)
+    ](//npmjs.com/package/@sudoo/abacus)
 
 ### [Sudoo-Assertion](//github.com/SudoDotDog/Sudoo-Assertion)
 
@@ -753,6 +754,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   Environment: NodeJS
 -   [Document](//socket.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/socket)
+
+### [Sudoo-Socket-Client](//github.com/SudoDotDog/Sudoo-Socket-Client)
+
+-   Environment: Browser / NodeJS
+-   [Document](//socket-client.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/socket-client)
 
 ### [Sudoo-SSR](//github.com/SudoDotDog/Sudoo-SSR)
 
