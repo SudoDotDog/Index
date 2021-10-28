@@ -1,8 +1,7 @@
-* * *
-
+---
 title: NPM Dictionary
-
-## layout: wide
+layout: wide
+---
 
 # NPM Dictionary
 
