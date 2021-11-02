@@ -784,6 +784,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//styles.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/styles)
 
+### [Sudoo-Symbol](//github.com/SudoDotDog/Sudoo-Symbol)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//symbol.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/symbol)
+
 ## T
 
 ### [Sudoo-Terminal](//github.com/SudoDotDog/Sudoo-Terminal)
