@@ -263,6 +263,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//for-the-king.sudo.dog)
 -   [NPM](//npmjs.com/package/for-the-king)
 
+### [Sudoo-Forever](//github.com/SudoDotDog/Sudoo-Forever)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//forever.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/forever)
+
 ## G
 
 ### [Sudoo-Geometry](//github.com/SudoDotDog/Sudoo-Geometry)
