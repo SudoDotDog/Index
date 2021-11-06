@@ -762,9 +762,15 @@ Packaged published to NPM, Vocabulary Ordered
 
 ### [Sudoo-Socket-Client](//github.com/SudoDotDog/Sudoo-Socket-Client)
 
--   Environment: Browser / NodeJS
+-   Environment: NodeJS
 -   [Document](//socket-client.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/socket-client)
+
+### [Sudoo-Socket-Web](//github.com/SudoDotDog/Sudoo-Socket-Web)
+
+-   Environment: Browser
+-   [Document](//socket-web.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/socket-web)
 
 ### [Sudoo-SSR](//github.com/SudoDotDog/Sudoo-SSR)
 
