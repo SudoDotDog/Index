@@ -127,6 +127,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//develop.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/develop)
 
+### [Sudoo-DI](//github.com/SudoDotDog/Sudoo-DI)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//di.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/di)
+
 ### [Sudoo-Dice](//github.com/SudoDotDog/Sudoo-Dice)
 
 -   Environment: Browser / NodeJS / React Native
@@ -765,6 +771,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   Environment: NodeJS
 -   [Document](//socket-client.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/socket-client)
+
+### [Sudoo-Socket-Util](//github.com/SudoDotDog/Sudoo-Socket-Util)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//socket-util.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/socket-util)
 
 ### [Sudoo-Socket-Web](//github.com/SudoDotDog/Sudoo-Socket-Web)
 
