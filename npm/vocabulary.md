@@ -57,6 +57,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//bark.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/bark)
 
+### [Sudoo-Buff-Nerf](//github.com/SudoDotDog/Sudoo-Buff-Nerf)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//buff-nerf.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/buff-nerf)
+
 ### [Sudoo-Buffer](//github.com/SudoDotDog/Sudoo-Buffer)
 
 -   Environment: Browser / NodeJS / React Native
@@ -120,6 +126,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   [NPM](//npmjs.com/package/@sudoo/csv)
 
 ## D
+
+### [Sudoo-Delay](//github.com/SudoDotDog/Sudoo-Delay)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//delay.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/delay)
 
 ### [Sudoo-Develop](//github.com/SudoDotDog/Sudoo-Develop)
 
@@ -326,6 +338,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   Environment: Browser / NodeJS / React Native
 -   [Document](//hello.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/hello)
+
+### [Sudoo-Hot-Dot](//github.com/SudoDotDog/Sudoo-Hot-Dot)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//hot-dot.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/hot-dot)
 
 ### [Sudoo-Huge-Integer](//github.com/SudoDotDog/Sudoo-Huge-Integer)
 
