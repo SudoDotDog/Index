@@ -69,6 +69,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//buffer.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/buffer)
 
+### [Sudoo-Build-CLI](//github.com/SudoDotDog/Sudoo-Build-CLI)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//build-cli.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/build-cli)
+
 ### [Sudoo-Build-Utils](//github.com/SudoDotDog/Sudoo-Build-Utils)
 
 -   Environment: NodeJS
@@ -906,9 +912,15 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//triforce-storybook.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/triforce-storybook)
 
+### [Sudoo-TSConfig](//github.com/SudoDotDog/Sudoo-TSConfig)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//tsconfig.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/tsconfig)
+
 ### [Sudoo-TSLINT](//github.com/SudoDotDog/Sudoo-TSLINT)
 
--   Environment: NodeJS
+-   Environment: Browser / NodeJS / React Native
 -   [Document](//tslint.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/tslint-config)
 
