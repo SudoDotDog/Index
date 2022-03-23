@@ -784,6 +784,18 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//slay-the-spire.sudo.dog)
 -   [NPM](//npmjs.com/package/slay-the-spire)
 
+### [Sudoo-Small-Docs-Definition](//github.com/SudoDotDog/Sudoo-Small-Docs-Definition)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//small-docs-definition.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/small-docs-definition)
+
+### [Sudoo-Small-Docs-React](//github.com/SudoDotDog/Sudoo-Small-Docs-React)
+
+-   Environment: Browser
+-   [Document](//small-docs-react.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/small-docs-react)
+
 ### [Sudoo-Socket](//github.com/SudoDotDog/Sudoo-Socket)
 
 -   Environment: NodeJS
