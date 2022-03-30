@@ -49,6 +49,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//aws-config.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/aws-config)
 
+### [Sudoo-AWS-Triforce](//github.com/SudoDotDog/Sudoo-AWS-Triforce)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//aws-triforce.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/aws-triforce)
+
 ## B
 
 ### [Sudoo-Bark](//github.com/SudoDotDog/Sudoo-Bark)
