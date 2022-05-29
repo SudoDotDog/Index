@@ -778,6 +778,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//semantic-version.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/semantic-version)
 
+### [Sudoo-Serverless](//github.com/SudoDotDog/Sudoo-Serverless)
+
+-   Environment: NodeJS
+-   [Document](//serverless.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/serverless)
+
 ### [Sudoo-Shell](//github.com/SudoDotDog/Sudoo-Shell)
 
 -   Environment: NodeJS
