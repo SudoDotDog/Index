@@ -4,7 +4,7 @@ description: Sudoo Packages Index
 url: https://sudo.dog
 github_username: WMXPY
 theme: minima
-repository: WMXPY/sudo.dog
+repository: SudoDotDog/Index
 markdown: kramdown
 kramdown:
   input: GFM
