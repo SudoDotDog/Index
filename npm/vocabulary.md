@@ -503,6 +503,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//marked.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/marked)
 
+### [Marked-Mixin](//github.com/SudoDotDog/Marked-Mixin)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//marked-mixin.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/marked-mixin)
+
 ### [Marked-Mixin-Math](//github.com/SudoDotDog/Marked-Mixin-Math)
 
 -   Environment: Browser / NodeJS / React Native
