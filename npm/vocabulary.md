@@ -503,6 +503,30 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//marked.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/marked)
 
+### [Marked-Mixin-Math](//github.com/SudoDotDog/Marked-Mixin-Math)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//marked-mixin-math.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/marked-mixin-math)
+
+### [Marked-Mixin-Math-Monaco](//github.com/SudoDotDog/Marked-Mixin-Math-Monaco)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//marked-mixin-math-monaco.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/marked-mixin-math-monaco)
+
+### [Marked-Mixin-Object](//github.com/SudoDotDog/Marked-Mixin-Object)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//marked-mixin-object.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/marked-mixin-object)
+
+### [Marked-Mixin-Object-Monaco](//github.com/SudoDotDog/Marked-Mixin-Object-Monaco)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//marked-mixin-object-monaco.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/marked-mixin-object-monaco)
+
 ### [Marked-Monaco](//github.com/SudoDotDog/Marked-Monaco)
 
 -   Environment: Browser / NodeJS / React Native
