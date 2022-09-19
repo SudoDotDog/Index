@@ -539,6 +539,12 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//marked-monaco.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/marked-monaco)
 
+### [Marked-Monaco-Mixin](//github.com/SudoDotDog/Marked-Monaco-Mixin)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//marked-monaco-mixin.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/marked-monaco-mixin)
+
 ### [Sudoo-Matrix](//github.com/SudoDotDog/Sudoo-Matrix)
 
 -   Environment: Browser / NodeJS / React Native
