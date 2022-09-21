@@ -509,6 +509,18 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//marked-mixin.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/marked-mixin)
 
+### [Marked-Mixin-Date](//github.com/SudoDotDog/Marked-Mixin-Date)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//marked-mixin-date.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/marked-mixin-date)
+
+### [Marked-Mixin-Date-Monaco](//github.com/SudoDotDog/Marked-Mixin-Date-Monaco)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//marked-mixin-date-monaco.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/marked-mixin-date-monaco)
+
 ### [Marked-Mixin-Math](//github.com/SudoDotDog/Marked-Mixin-Math)
 
 -   Environment: Browser / NodeJS / React Native
@@ -532,6 +544,18 @@ Packaged published to NPM, Vocabulary Ordered
 -   Environment: Browser / NodeJS / React Native
 -   [Document](//marked-mixin-object-monaco.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/marked-mixin-object-monaco)
+
+### [Marked-Mixin-Parse](//github.com/SudoDotDog/Marked-Mixin-Parse)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//marked-mixin-parse.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/marked-mixin-parse)
+
+### [Marked-Mixin-Parse-Monaco](//github.com/SudoDotDog/Marked-Mixin-Parse-Monaco)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//marked-mixin-parse-monaco.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/marked-mixin-parse-monaco)
 
 ### [Marked-Monaco](//github.com/SudoDotDog/Marked-Monaco)
 
