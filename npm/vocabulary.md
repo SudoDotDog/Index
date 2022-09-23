@@ -521,6 +521,18 @@ Packaged published to NPM, Vocabulary Ordered
 -   [Document](//marked-mixin-date-monaco.sudo.dog)
 -   [NPM](//npmjs.com/package/@sudoo/marked-mixin-date-monaco)
 
+### [Marked-Mixin-Json](//github.com/SudoDotDog/Marked-Mixin-Json)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//marked-mixin-json.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/marked-mixin-json)
+
+### [Marked-Mixin-Json-Monaco](//github.com/SudoDotDog/Marked-Mixin-Json-Monaco)
+
+-   Environment: Browser / NodeJS / React Native
+-   [Document](//marked-mixin-json-monaco.sudo.dog)
+-   [NPM](//npmjs.com/package/@sudoo/marked-mixin-json-monaco)
+
 ### [Marked-Mixin-Math](//github.com/SudoDotDog/Marked-Mixin-Math)
 
 -   Environment: Browser / NodeJS / React Native
